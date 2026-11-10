@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#0a1525">
+  <meta name="description" content="以原神角色介面為靈感的繁體中文角色與技能圖鑑。查閱角色基本資訊、普通攻擊、元素戰技、元素爆發與固有天賦。">
+  <title>原神角色與技能圖鑑 | Character Archive</title>
+  <link rel="stylesheet" href="./css/style.css">
+  <script type="module" src="./js/main.js"></script>
+</head>
+<body>
+  <div id="app" class="app-shell" data-element="Hydro">
+    <div class="world-glow" aria-hidden="true"></div>
+    <a class="skip-link" href="#main-content">跳至主要內容</a>
+    <header class="site-header">
+      <a class="brand" href="#/" aria-label="原神角色與技能圖鑑，返回總覽">
+        <span class="brand-symbol" aria-hidden="true">✧</span>
+        <span class="brand-text"><strong>提瓦特圖鑑</strong><small>CHARACTER ARCHIVE</small></span>
+      </a>
+      <div class="header-meta"><span class="header-rule" aria-hidden="true"></span><span>旅行者的角色資料庫</span><span class="edition-tag">繁體中文 · 7.2 版資料</span></div>
+    </header>
+
+    <main id="main-content">
+      <section id="overview-view" class="overview-view" aria-labelledby="overview-title">
+        <div class="overview-hero">
+          <div class="hero-copy">
+            <p class="eyebrow"><span class="tiny-diamond" aria-hidden="true">✦</span> EXPLORE THE SEVEN ELEMENTS <span class="eyebrow-line" aria-hidden="true"></span></p>
+            <h1 id="overview-title">角色<span>圖鑑</span></h1>
+            <p class="hero-lead">穿梭七國，記錄每段旅途。<br>收錄 7.2 版本角色索引，依元素與武器探索。<br>已核對的天賦會完整顯示，其餘資料標明整理進度。</p>
+            <div class="hero-divider" aria-hidden="true"><span>✧</span></div>
+            <div class="hero-stats"><div><strong id="total-characters">—</strong><span>已收錄角色</span></div><div><strong>07</strong><span>元素種類</span></div><div><strong id="reviewed-characters">—</strong><span>已整理天賦</span></div></div>
+          </div>
+          <div class="hero-art" aria-hidden="true"><span class="hero-ring outer"></span><span class="hero-ring inner"></span><span class="hero-star">✧</span><span class="hero-orbit orbit-a">✧</span><span class="hero-orbit orbit-b">✦</span><span class="hero-art-caption">AD ASTRA ABYSSOSQUE</span></div>
+        </div>
+
+        <div class="section-heading"><div><p class="eyebrow small">CHARACTER COLLECTION / 01</p><h2>角色一覽 <span class="section-title-mark">✧</span></h2></div><p class="section-side-note">選擇一位角色，查看其基本資訊與天賦</p></div>
+        <div class="filter-toolbar" role="group" aria-label="角色篩選">
+          <div class="filter-label"><span class="filter-symbol" aria-hidden="true">⌕</span><span>探索角色</span><span class="filter-count" id="filter-count">載入中</span></div>
+          <div class="filter-controls">
+            <label for="name-search">搜尋</label><input type="search" id="name-search" placeholder="搜尋角色中文名或英文 ID" autocomplete="off" aria-label="搜尋角色名稱或英文識別碼">
+            <label for="element-filter">元素</label><select id="element-filter"><option value="all">所有元素</option><option value="Pyro">火元素</option><option value="Hydro">水元素</option><option value="Anemo">風元素</option><option value="Electro">雷元素</option><option value="Dendro">草元素</option><option value="Cryo">冰元素</option><option value="Geo">岩元素</option></select>
+            <label for="weapon-filter">武器</label><select id="weapon-filter"><option value="all">所有武器</option><option value="Sword">單手劍</option><option value="Claymore">雙手劍</option><option value="Polearm">長柄武器</option><option value="Bow">弓</option><option value="Catalyst">法器</option></select>
+            <label for="rarity-filter">星級</label><select id="rarity-filter"><option value="all">所有星級</option><option value="5">五星</option><option value="4">四星</option></select>
+            <label for="status-filter">資料</label><select id="status-filter"><option value="all">所有角色</option><option value="reviewed">天賦已整理</option><option value="pending">資料整理中</option></select>
+            <label for="sort-filter">排序</label><select id="sort-filter"><option value="featured">精選優先</option><option value="name">角色名稱</option><option value="rarity">五星優先</option></select>
+            <button class="clear-filters" id="clear-filters" type="button">清除篩選 <span aria-hidden="true">↺</span></button>
+          </div>
+        </div>
+        <div id="overview-message" class="notice" role="status" hidden></div>
+        <div id="character-grid" class="character-grid" aria-live="polite" aria-busy="true"></div>
+        <div class="more-controls"><button id="load-more" class="load-more" type="button" hidden>顯示更多角色 <span aria-hidden="true">↓</span></button></div>
+        <div id="empty-state" class="empty-state" hidden><span aria-hidden="true">✧</span><h3>沒有符合條件的角色</h3><p>試著調整元素或武器類型，探索其他角色。</p><button id="empty-reset" type="button">顯示全部角色</button></div>
+        <p class="overview-footnote">✦ 本站為非官方學習作品。角色立繪僅使用原創抽象示意或圖像備援。尚未核對的天賦資訊明確標示待補，不代表官方完整角色資料。</p>
+      </section>
+
+      <section id="detail-view" class="detail-view" aria-labelledby="detail-character-name" hidden>
+        <div class="detail-toolbar"><div class="breadcrumb"><button id="breadcrumb-back" class="back-mini" type="button">← <span>角色總覽</span></button><span aria-hidden="true">/</span><span id="breadcrumb-current">角色詳細</span></div><div class="detail-toolbar-note">CHARACTER PROFILE <span class="tiny-diamond" aria-hidden="true">✦</span></div></div>
+        <div class="switcher-toolbar"><label for="quick-character-select">快速查找角色</label><select id="quick-character-select" aria-label="切換至指定角色"></select></div><div id="character-switcher" class="character-switcher" role="group" aria-label="相鄰角色快速切換"></div>
+        <div class="detail-grid">
+          <aside class="detail-sidebar" aria-label="角色資訊分類"><div class="sidebar-heading"><span class="tiny-diamond" aria-hidden="true">✦</span> 檔案目錄</div><nav class="detail-tabs" aria-label="技能分類">
+            <button class="detail-tab is-active" type="button" data-tab="info"><span class="tab-glyph" aria-hidden="true">◇</span><span>基本資訊</span><span class="tab-arrow" aria-hidden="true">›</span></button>
+            <button class="detail-tab" type="button" data-tab="normalAttack"><span class="tab-glyph" aria-hidden="true">✦</span><span>普通攻擊</span><span class="tab-arrow" aria-hidden="true">›</span></button>
+            <button class="detail-tab" type="button" data-tab="elementalSkill"><span class="tab-glyph" aria-hidden="true">✧</span><span>元素戰技</span><span class="tab-arrow" aria-hidden="true">›</span></button>
+            <button class="detail-tab" type="button" data-tab="elementalBurst"><span class="tab-glyph" aria-hidden="true">✺</span><span>元素爆發</span><span class="tab-arrow" aria-hidden="true">›</span></button>
+            <button class="detail-tab" type="button" data-tab="passiveTalents"><span class="tab-glyph" aria-hidden="true">❖</span><span>固有天賦</span><span class="tab-arrow" aria-hidden="true">›</span></button>
+          </nav><div class="sidebar-bottom"><div class="sidebar-line"></div><p>SELECT A TALENT<br>TO EXPLORE</p><span aria-hidden="true">✧</span></div></aside>
+
+          <div class="character-stage" id="character-stage">
+            <div class="stage-vertical-title" aria-hidden="true">CHARACTER / ARCHIVE</div><div class="stage-halo halo-one" aria-hidden="true"></div><div class="stage-halo halo-two" aria-hidden="true"></div><div class="stage-sigil" aria-hidden="true">✧</div>
+            <div class="stage-art"><img id="detail-portrait" alt="" width="520" height="800"><div id="detail-portrait-fallback" class="portrait-fallback" hidden><span class="fallback-emblem" id="fallback-emblem" aria-hidden="true">✧</span><span>原創元素示意 · 立繪待補</span></div></div>
+            <div class="stage-bottom"><div class="stage-name-wrap"><p id="detail-region" class="stage-region">—</p><h1 id="detail-character-name">角色名稱</h1><div id="detail-stars" class="star-rating" aria-label="稀有度"></div></div><span class="portrait-disclaimer" id="portrait-disclaimer">原創示意 · 非官方立繪</span></div>
+          </div>
+
+          <article class="talent-panel" aria-live="polite" aria-atomic="true"><div class="panel-decor top" aria-hidden="true">✦ ─────────────── ✦</div><div class="panel-heading"><div class="panel-kicker" id="detail-category">基本資訊 / CHARACTER</div><span id="detail-counter" class="panel-counter">01 / 05</span></div><div class="panel-emblem" id="detail-emblem" aria-hidden="true">◇</div><p id="detail-data-status" class="detail-data-status" role="status"></p><h2 id="detail-skill-name">角色簡介</h2><div class="title-accent" aria-hidden="true"><span></span><i>✧</i></div><div id="detail-skill-description" class="panel-description"></div><div id="detail-passives" class="passive-list" hidden></div><a id="detail-source-link" class="panel-source" href="https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw" target="_blank" rel="noopener noreferrer">查閱資料參考來源 ↗</a><div class="panel-bottom"><span>✧</span><p>旅途中的每一份紀錄，<br>都是邁向未知的起點。</p><span>✧</span></div><div class="panel-decor bottom" aria-hidden="true">✦ ─────────────── ✦</div></article>
+        </div>
+        <div id="detail-message" class="notice detail-notice" role="alert" hidden></div>
+        <div class="detail-footer"><button id="detail-return" type="button">← 返回角色圖鑑</button><span>TRAVELER'S HANDBOOK · TEYVAT</span></div>
+      </section>
+    </main>
+    <footer class="site-footer"><span>✧ GENSHIN CHARACTER ARCHIVE</span><span>非官方粉絲學習專案 · 原神及相關角色名稱為其權利人所有</span></footer>
+  </div>
+</body>
+</html>
