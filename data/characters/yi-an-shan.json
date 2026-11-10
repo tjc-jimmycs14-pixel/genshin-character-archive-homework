@@ -5,26 +5,33 @@
   "weapon": "Polearm",
   "rarity": 4,
   "region": "",
-  "description": "",
+  "description": "沃陸之邦健身教練，擅長給隊友提供攻擊力增益。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "負重錐擊",
+      "description": "使用長柄武器進行連續攻擊，夜魂狀態下可施展雷元素重擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "電掣雷馳",
+      "description": "向前衝刺造成雷元素傷害並進入夜魂狀態，短暫獲得雷霆飛縋與高速移動能力。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "力的三原理",
+      "description": "展開雷元素範圍攻擊並向隊伍提供攻擊力相關支援。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "戰鬥輔助效果（摘要）",
+        "description": "伊安珊的技能與隊伍運動狀態相互配合，能為場上角色提供攻擊力增益。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

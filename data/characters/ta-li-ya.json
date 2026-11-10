@@ -5,26 +5,38 @@
   "weapon": "Sword",
   "rarity": 4,
   "region": "",
-  "description": "",
+  "description": "西風教會助祭，以水元素護盾與機動支援隊伍。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "西風劍術·祭儀",
+      "description": "使用單手劍進行連續攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "聖浸的禮典",
+      "description": "召喚霧雨秘跡；敵人碰觸會引發水元素爆炸，隊友碰觸則會被彈起。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "純耀的禱詠",
+      "description": "造成水元素範圍傷害並生成護盾；符合條件時可使護盾重新出現。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "風色柔願的眷寵",
+        "description": "被爆發增益影響的隊友觸發凍結時，能補充護盾所需的祝頌。",
+        "icon": ""
+      },
+      {
+        "name": "黠巧歡愉的祈頌",
+        "description": "依生命值上限提高受到爆發增益角色的普通攻擊速度。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://genshin-center.com/zh-Hant/characters/dahlia",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

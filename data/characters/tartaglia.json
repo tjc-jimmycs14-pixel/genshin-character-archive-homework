@@ -5,26 +5,38 @@
   "weapon": "Bow",
   "rarity": 5,
   "region": "",
-  "description": "",
+  "description": "愚人眾執行官公子，能切換弓箭與水元素近戰形態。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以弓箭進行普通攻擊；可蓄力瞄準，發射帶有元素傷害的箭矢。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "魔王武裝·狂瀾",
+      "description": "切換近戰水元素雙刀姿態，攻擊帶有斷流標記的敵人可引發額外水元素傷害。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "極惡技·盡滅閃",
+      "description": "依遠程或近戰姿態施放不同水元素爆發，對帶斷流標記的敵人產生額外效果。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "永無謝幕",
+        "description": "延長斷流標記的持續時間。",
+        "icon": ""
+      },
+      {
+        "name": "水形劍",
+        "description": "近戰普通攻擊與重擊暴擊時，可附加斷流標記。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

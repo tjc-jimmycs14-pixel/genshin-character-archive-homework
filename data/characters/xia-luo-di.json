@@ -5,26 +5,38 @@
   "weapon": "Catalyst",
   "rarity": 4,
   "region": "楓丹",
-  "description": "",
+  "description": "蒸汽鳥報社記者，兼具冰元素施加與團隊治療。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以法器發動對應元素的普通攻擊與重擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "取景·冰點構圖法",
+      "description": "使用留影機拍攝敵人並施加冰元素標記，持續攻擊被記錄的對象。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "定格·全方位確證",
+      "description": "展開新聞攝影領域造成冰元素範圍傷害，並恢復隊伍角色生命值。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "衝擊力瞬間",
+        "description": "標記敵人被擊倒後，可以縮短戰技長按的冷卻時間。",
+        "icon": ""
+      },
+      {
+        "name": "多樣性調查",
+        "description": "依隊伍中楓丹與非楓丹角色的構成，提高治療或冰元素傷害。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

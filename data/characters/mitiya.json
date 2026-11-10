@@ -5,26 +5,38 @@
   "weapon": "Catalyst",
   "rarity": 5,
   "region": "至冬",
-  "description": "",
+  "description": "至冬的能源專家，擅長以雷元素與星超導機制攻擊。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "鏈式反應",
+      "description": "使用法器進行雷元素攻擊；特殊重擊可消耗信標造成額外雷元素傷害。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "律定·變量偵測",
+      "description": "部署偵測爐心，讓雷元素重擊能消耗特殊信標造成星超導相關傷害。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "解析·遞變之理",
+      "description": "施展雷元素範圍攻擊，強化與星超導相關的作戰方式。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "基準承壓測驗",
+        "description": "偵測爐心在不同模式下提供元素精通提升或強化遞變信標獲取。",
+        "icon": ""
+      },
+      {
+        "name": "超限易爆試劑",
+        "description": "延長信標持續時間並提高自身暴擊率。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://www.hoyolab.com/article/47319324",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

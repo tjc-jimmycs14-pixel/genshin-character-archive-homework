@@ -5,26 +5,38 @@
   "weapon": "Sword",
   "rarity": 4,
   "region": "",
-  "description": "",
+  "description": "稻妻狛荷屋快遞員，使用草元素護盾與貓箱快速移動。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以單手劍進行連續普通攻擊，可使用重擊與下落攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "嗚喵町飛足",
+      "description": "形成草元素護盾；長按化作貓箱急速移動，撞擊敵人造成草元素傷害。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "秘法·驚喜特派",
+      "description": "投出特製快遞箱，造成草元素範圍傷害並分裂為草元素小炸彈。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "妖說歧尾之變",
+        "description": "貓箱狀態撞擊敵人可獲得額外護盾效果。",
+        "icon": ""
+      },
+      {
+        "name": "應時惑目之靈",
+        "description": "生命值上限可提高戰技與爆發造成的傷害。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

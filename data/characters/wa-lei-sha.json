@@ -5,26 +5,38 @@
   "weapon": "Catalyst",
   "rarity": 5,
   "region": "",
-  "description": "",
+  "description": "納塔摔角戰士，以雷元素下落攻擊與高機動突進輸出。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "角力搏摔",
+      "description": "近距離雷元素搏擊，重擊可以騰躍至空中。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "夜虹逐躍",
+      "description": "向前突進並獲得強化跳躍能力，可衍生雷元素下落攻擊。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "閃烈降臨！",
+      "description": "施展雷元素範圍重擊與下落攻擊相關的爆發傷害。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "連勢，三重騰躍！",
+        "description": "施放戰技後，強化下落攻擊的額外傷害。",
+        "icon": ""
+      },
+      {
+        "name": "英雄，二度歸來！",
+        "description": "附近隊友觸發夜魂迸發時提高攻擊力。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

@@ -5,26 +5,38 @@
   "weapon": "Bow",
   "rarity": 4,
   "region": "",
-  "description": "",
+  "description": "教令院的沙漠學者，透過雷元素蓄力箭和強化普攻輸出。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以弓箭進行普通攻擊；可蓄力瞄準，發射帶有元素傷害的箭矢。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "古儀·鳴砂掣雷",
+      "description": "造成雷元素傷害並迅速後撤，在特定條件下獲得元素能量。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "秘儀·瞑光貫影",
+      "description": "進入神祇憑依狀態，將普通攻擊轉為雷元素傷害並發射貫影箭。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "鳶鷲執盾",
+        "description": "隊伍觸發雷元素反應時，獲得能降低二段蓄力箭所需時間的效果。",
+        "icon": ""
+      },
+      {
+        "name": "砂王的賜禮",
+        "description": "元素精通能提高二段蓄力箭與爆發狀態普通攻擊的傷害。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

@@ -5,26 +5,38 @@
   "weapon": "Claymore",
   "rarity": 5,
   "region": "楓丹",
-  "description": "",
+  "description": "刺玫會會長，透過結晶反應蒐集彈片並發射岩元素霰彈。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以雙手劍進行連續揮砍，可進行重擊與下落攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "典儀式晶火！",
+      "description": "持有「裂晶彈片」時發射數枚晶彈；彈片越多，岩元素槍擊威力越高。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "如霰澄天的鳴禮",
+      "description": "召喚炮擊支援，先造成岩元素範圍傷害，再持續轟擊敵人並補充裂晶彈片。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "不明流通管道",
+        "description": "戰技後普通攻擊、重擊與下落攻擊短暫獲得岩元素附魔。",
+        "icon": ""
+      },
+      {
+        "name": "互助關係網",
+        "description": "隊伍中火、水、冰、雷元素角色能提高娜維婭攻擊力。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

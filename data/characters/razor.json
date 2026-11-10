@@ -5,26 +5,38 @@
   "weapon": "Claymore",
   "rarity": 4,
   "region": "",
-  "description": "",
+  "description": "奔狼領少年，以雷狼協同攻擊與物理近戰輸出為主。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以雙手劍進行連續揮砍，可進行重擊與下落攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "利爪與蒼雷",
+      "description": "以雷狼之爪造成雷元素傷害並累積雷之印，長按可造成雷元素範圍傷害。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "雷牙",
+      "description": "召喚雷狼協同普通攻擊並提高攻擊速度，雷狼造成雷元素傷害。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "覺醒",
+        "description": "降低戰技冷卻時間，施放爆發後重置戰技冷卻。",
+        "icon": ""
+      },
+      {
+        "name": "飢餓",
+        "description": "元素能量較低時，提高元素充能效率。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

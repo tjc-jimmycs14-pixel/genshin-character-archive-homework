@@ -5,26 +5,33 @@
   "weapon": "Catalyst",
   "rarity": 5,
   "region": "",
-  "description": "",
+  "description": "霜月之子的聖女，與草元素月綻放反應相關。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "林麓旅踏",
+      "description": "進行草元素連擊，重擊可轉為靈使奔行。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "聖言述詠·終宵永眠",
+      "description": "展開霜林聖域造成草元素傷害，消耗草露時能觸發月綻放相關的額外傷害並降低敵人草、水元素抗性。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "聖言述詠·眾心為月",
+      "description": "取得蒼色禱歌層數，隊伍造成綻放系列反應傷害時消耗層數並提高傷害。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "月綻放支援（摘要）",
+        "description": "菈烏瑪的能力與月綻放相關，可強化草水隊伍的反應表現。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

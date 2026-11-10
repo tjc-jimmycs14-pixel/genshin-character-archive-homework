@@ -5,26 +5,33 @@
   "weapon": "Bow",
   "rarity": 4,
   "region": "",
-  "description": "",
+  "description": "秘聞館員工，使用風元素、元素轉化與貓型機關支援隊伍。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "見機行矢",
+      "description": "使用弓箭進行三段射擊，蓄力箭可造成風元素傷害。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "奇策·財富分配方案",
+      "description": "快速突進並收集敵人身上的元素，轉為後續的元素攻擊。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "秘器·獵人的七道具",
+      "description": "召喚貓型機關，造成風元素傷害並在後續持續攻擊或治療隊友。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "索酬的巧計",
+        "description": "依隊伍元素構成強化召喚物的效果。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://genshin-center.com/zh-Hant/characters/jahoda",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

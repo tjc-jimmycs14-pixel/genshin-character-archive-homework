@@ -5,26 +5,33 @@
   "weapon": "Sword",
   "rarity": 5,
   "region": "",
-  "description": "",
+  "description": "來自深淵的劍士，依資源機制切換冰元素連續輸出與爆發。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "極惡技·斷",
+      "description": "使用單手劍連續攻擊，重擊擲出迴旋晶槍。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "極惡技·閃",
+      "description": "切換成七相一閃狀態並使用冰元素強化普通攻擊，長按可快速移動。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "極惡技·滅",
+      "description": "消耗蛇之狡謀釋放強力冰元素範圍傷害；不同狀態下爆發方式有所變化。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "理外之理",
+        "description": "隊友的冰、水元素攻擊能協助獲得增益，強化絲柯克冰元素傷害。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

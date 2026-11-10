@@ -5,26 +5,38 @@
   "weapon": "Bow",
   "rarity": 5,
   "region": "納塔",
-  "description": "",
+  "description": "花羽會的調停人，駕駛靈槍在空中進行風元素與多元素混合攻擊。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以弓箭進行普通攻擊；可蓄力瞄準，發射帶有元素傷害的箭矢。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "靈韁追影",
+      "description": "乘坐靈槍進入夜魂狀態，於空中瞄準敵人並發射具有不同元素特性的追影彈。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "索魂命襲",
+      "description": "投出裝有元素力量的靈槍，在空中分裂並追蹤敵人。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "子彈的戲法",
+        "description": "隊伍發生特定元素轉化時，可提高蓄力追影彈的轉化機率與威力。",
+        "icon": ""
+      },
+      {
+        "name": "掩護的心意",
+        "description": "隊友觸發夜魂迸發後提高恰斯卡的相關傷害。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

@@ -5,26 +5,38 @@
   "weapon": "Claymore",
   "rarity": 4,
   "region": "",
-  "description": "",
+  "description": "璃月搖滾歌手，兼具火元素護盾與物理爆發傷害。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以雙手劍進行連續揮砍，可進行重擊與下落攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "熱情拂掃",
+      "description": "揮擊造成火元素傷害，依命中敵人數量生成不同等級護盾，並可能持續造成火元素傷害。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "叛逆刮弦",
+      "description": "奏出音浪，先造成物理範圍傷害，再造成持續火元素傷害。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "「沒聽眾也要演奏…」",
+        "description": "降低護盾判定提升所需的命中敵人數量。",
+        "icon": ""
+      },
+      {
+        "name": "「這才是搖滾！」",
+        "description": "擁有護盾的角色造成的物理傷害提高。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

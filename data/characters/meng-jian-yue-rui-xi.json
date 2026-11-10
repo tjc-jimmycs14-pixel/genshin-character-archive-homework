@@ -5,26 +5,33 @@
   "weapon": "Catalyst",
   "rarity": 5,
   "region": "",
-  "description": "",
+  "description": "稻妻秋沙錢湯的心理療癒師，以擴散反應與夢境治療輔助隊伍。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以法器發動對應元素的普通攻擊與重擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "夢浮生·浮世之空",
+      "description": "進入夢浮狀態並在空中飄浮，持續對敵人造成風元素範圍傷害。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "安樂秘湯療法",
+      "description": "召喚迷你貘並造成風元素傷害；留下的夢境物件可依隊伍生命值回復或造成傷害。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "皎月之念",
+        "description": "隊友的火、水、冰、雷元素攻擊可增強夢浮狀態下的傷害。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

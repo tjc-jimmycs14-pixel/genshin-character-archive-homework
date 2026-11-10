@@ -5,26 +5,33 @@
   "weapon": "Catalyst",
   "rarity": 5,
   "region": "",
-  "description": "",
+  "description": "至冬劇團女高音，以水元素歌聲支援冰水隊伍。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "水色詠嘆",
+      "description": "以法器施放水元素歌聲攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "宣敘·晨聲紛流",
+      "description": "召喚持續追擊敵人的水元素角笛，降低目標的水、冰元素抗性並治療場上角色。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "終奏·伴爾沉淪",
+      "description": "以水元素範圍傷害攻擊敵人，遙久之歌狀態下額外增強威力。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "水妖之歌（摘要）",
+        "description": "可透過技能提供持續治療與元素抗性降低。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://genshin-center.com/zh-Hant/characters/vodyanitsa",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

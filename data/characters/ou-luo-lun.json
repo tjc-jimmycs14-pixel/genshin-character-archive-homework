@@ -5,26 +5,33 @@
   "weapon": "Bow",
   "rarity": 4,
   "region": "",
-  "description": "",
+  "description": "煙謎主的少年，擅長後台雷元素附著與夜魂連鎖傷害。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "宿靈閃箭",
+      "description": "以弓箭進行連續射擊，蓄力箭造成雷元素傷害。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "暝色縋索",
+      "description": "向敵人投出宿靈球，在多名敵人之間彈跳並造成雷元素傷害。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "黯聲迴響",
+      "description": "召喚旋轉的超音靈眼，嘲諷敵人並持續造成雷元素傷害。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "靈覺感應（摘要）",
+        "description": "在隊友造成水元素或雷元素攻擊時可累積夜魂資源，並觸發額外雷元素攻擊。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://genshin-center.com/zh-Hant/characters/ororon",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

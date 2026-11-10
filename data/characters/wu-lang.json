@@ -5,26 +5,38 @@
   "weapon": "Bow",
   "rarity": 4,
   "region": "",
-  "description": "",
+  "description": "海祇島反抗軍大將，專門強化以岩元素和防禦力為核心的隊伍。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以弓箭進行普通攻擊；可蓄力瞄準，發射帶有元素傷害的箭矢。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "犬坂吠吠方圓陣",
+      "description": "展開大將旗指物，依隊伍中岩元素角色數量提供防禦力、抗打斷等增益。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "獸牙逐突形勝戰法",
+      "description": "開啟可隨角色移動的將軍威儀領域，持續增益隊友並造成岩元素傷害。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "不畏風雨",
+        "description": "元素爆發後，附近隊伍角色短暫獲得防禦力提升。",
+        "icon": ""
+      },
+      {
+        "name": "報恩之守",
+        "description": "依自身防禦力提高戰技與爆發的傷害。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

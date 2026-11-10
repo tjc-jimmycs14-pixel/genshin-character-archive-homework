@@ -5,26 +5,38 @@
   "weapon": "Catalyst",
   "rarity": 4,
   "region": "璃月",
-  "description": "",
+  "description": "璃月七星的天權星，以岩元素寶石遠程攻擊並設置璇璣屏。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以法器發動對應元素的普通攻擊與重擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "璇璣屏",
+      "description": "創造阻擋敵方投射物的玉石屏障，設置時造成岩元素範圍傷害。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "天權崩玉",
+      "description": "召喚大量寶石追擊敵人；場上存在璇璣屏時可追加寶石。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "星移勢轉",
+        "description": "穿越璇璣屏可獲得岩元素傷害加成。",
+        "icon": ""
+      },
+      {
+        "name": "儲之千日，用之一刻",
+        "description": "持有星璇時，重擊不額外消耗體力。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

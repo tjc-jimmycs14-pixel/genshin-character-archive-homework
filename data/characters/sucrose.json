@@ -5,26 +5,38 @@
   "weapon": "Catalyst",
   "rarity": 4,
   "region": "蒙德",
-  "description": "",
+  "description": "西風騎士團鍊金術士，以聚怪、擴散及元素精通分享支援隊伍。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以法器發動對應元素的普通攻擊與重擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "風靈作成·陸叁零捌",
+      "description": "召喚風靈造成風元素範圍傷害並將敵人聚集。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "禁·風靈作成·柒伍同構貳型",
+      "description": "召喚大型風靈持續聚集敵人並造成風元素傷害，可吸收元素追加對應傷害。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "觸媒置換術",
+        "description": "擴散反應可提高相同元素隊友的元素精通。",
+        "icon": ""
+      },
+      {
+        "name": "小小的慧風",
+        "description": "戰技或爆發命中敵人可依自身元素精通提升隊友元素精通。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

@@ -5,26 +5,38 @@
   "weapon": "Catalyst",
   "rarity": 4,
   "region": "",
-  "description": "",
+  "description": "西風騎士團圖書管理員，以雷元素持續攻擊與降低敵人防禦力為特色。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以法器發動對應元素的普通攻擊與重擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "蒼雷",
+      "description": "按下釋放追蹤雷電，長按可依導電層數造成雷元素範圍傷害。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "薔薇的雷光",
+      "description": "召喚雷光玫瑰，持續落雷攻擊周圍敵人。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "電感餘震",
+        "description": "戰技按下命中敵人可追加導電效果。",
+        "icon": ""
+      },
+      {
+        "name": "靜電場力",
+        "description": "爆發命中時降低敵人的防禦力。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

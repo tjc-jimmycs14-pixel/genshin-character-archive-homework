@@ -5,26 +5,33 @@
   "weapon": "Catalyst",
   "rarity": 4,
   "region": "",
-  "description": "",
+  "description": "花羽會獸醫，能在空中移動、治療並引發風元素擴散。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "祛風妙儀",
+      "description": "使用法器進行三段風元素攻擊，重擊造成風元素範圍傷害。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "空天疾護",
+      "description": "與夥伴咔庫庫一同懸浮移動，援護射擊能造成風元素傷害並為全隊治療。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "複合鎮靜域",
+      "description": "發射療域鎮靜劑，造成風元素範圍傷害並牽引附近敵人。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "治療與擴散支援（摘要）",
+        "description": "伊法的夜魂能力能幫助隊伍回復生命值，並配合擴散反應輸出。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

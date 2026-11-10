@@ -5,26 +5,38 @@
   "weapon": "Polearm",
   "rarity": 5,
   "region": "璃月",
-  "description": "",
+  "description": "守護璃月的夜叉，以風元素強化下落攻擊作戰。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以長柄武器進行連續攻擊，可進行重擊與下落攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "風輪兩立",
+      "description": "高速向前突進造成風元素傷害，可在空中施放。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "靖妖儺舞",
+      "description": "戴上儺面，增加跳躍能力及攻擊範圍，將攻擊轉為風元素傷害，但持續流失生命值。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "降魔·平妖大聖",
+        "description": "爆發期間提高造成的所有傷害。",
+        "icon": ""
+      },
+      {
+        "name": "壞劫·國土碾塵",
+        "description": "施放戰技後，接續戰技可獲得額外傷害加成。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

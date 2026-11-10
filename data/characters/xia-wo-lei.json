@@ -5,26 +5,38 @@
   "weapon": "Polearm",
   "rarity": 4,
   "region": "",
-  "description": "",
+  "description": "楓丹特巡隊隊長，為火雷超載隊伍提供減抗與增益。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以長柄武器進行連續攻擊，可進行重擊與下落攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "近迫式急促攔射",
+      "description": "使用銃槍射擊造成火元素傷害；隊伍含火與雷元素角色時，可獲得強化射擊。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "圓陣擲彈爆轟術",
+      "description": "投擲爆裂榴彈，造成火元素範圍傷害並引發連鎖爆炸。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "尖兵協同戰法",
+        "description": "隊伍觸發超載反應時，降低附近敵人的火元素與雷元素抗性。",
+        "icon": ""
+      },
+      {
+        "name": "縱陣武力統籌",
+        "description": "戰技強化射擊後，可提高附近隊伍角色攻擊力。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

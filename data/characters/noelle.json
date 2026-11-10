@@ -5,26 +5,38 @@
   "weapon": "Claymore",
   "rarity": 4,
   "region": "",
-  "description": "",
+  "description": "西風騎士團女僕，以防禦力轉化、護盾與治療作戰。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以雙手劍進行連續揮砍，可進行重擊與下落攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "護心鎧",
+      "description": "展開護盾並造成岩元素傷害；攻擊命中時有機率治療隊伍角色。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "大掃除",
+      "description": "大幅提高普通攻擊範圍，依防禦力增加攻擊力並讓普攻轉為岩元素傷害。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "全心全意",
+        "description": "後台隊友生命值過低時，自動生成護盾保護角色。",
+        "icon": ""
+      },
+      {
+        "name": "乾淨利落",
+        "description": "普通攻擊或重擊命中敵人，可縮短護心鎧冷卻時間。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

@@ -5,26 +5,38 @@
   "weapon": "Claymore",
   "rarity": 4,
   "region": "須彌",
-  "description": "",
+  "description": "須彌建築師，擅長使用草原核與草元素強化攻擊。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以雙手劍進行連續揮砍，可進行重擊與下落攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "畫則巧施",
+      "description": "展開區域掃描，立即引爆範圍內的草原核並造成草元素傷害。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "繁繪豪穹",
+      "description": "進入強化狀態，提高普通攻擊傷害並將攻擊轉為草元素傷害，同時強化草原核爆炸。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "營造者的擔當",
+        "description": "受到草原核傷害時，可恢復自身生命值。",
+        "icon": ""
+      },
+      {
+        "name": "工藝家的奇想",
+        "description": "強化普通攻擊命中敵人時，有機率觸發額外草元素傷害。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

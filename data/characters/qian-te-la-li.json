@@ -5,26 +5,38 @@
   "weapon": "Catalyst",
   "rarity": 5,
   "region": "納塔",
-  "description": "",
+  "description": "納塔的煙謎主祭司，兼具冰元素護盾與元素減抗。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以法器發動對應元素的普通攻擊與重擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "霜晝黑星",
+      "description": "召喚伊茲帕帕並生成護盾，在夜魂狀態下造成冰元素攻擊。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "諸曜飭令",
+      "description": "召喚強力冰元素攻擊，並透過被命中的敵人恢復夜魂值。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "五重天的寒雨",
+        "description": "隊伍觸發冰相關反應時，可降低目標的水元素與火元素抗性。",
+        "icon": ""
+      },
+      {
+        "name": "白燧蝶的星衣",
+        "description": "元素精通可提高護盾吸收量與部分傷害。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

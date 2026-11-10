@@ -5,26 +5,38 @@
   "weapon": "Sword",
   "rarity": 5,
   "region": "璃月",
-  "description": "",
+  "description": "不卜廬的採藥姑娘，以冰元素與持續治療支援隊伍。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以單手劍進行連續普通攻擊，可使用重擊與下落攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "仙法·寒病鬼差",
+      "description": "召喚寒病鬼差繞行造成冰元素傷害，並依攻擊與時間為隊伍角色恢復生命值。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "仙法·救苦度厄",
+      "description": "以冰元素對周圍敵人造成傷害並附加度厄真符；隊友攻擊帶符的敵人時可恢復生命值。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "延命妙法",
+        "description": "鬼差效果期間觸發元素反應，可提高受到的治療效果。",
+        "icon": ""
+      },
+      {
+        "name": "玉籤偶開",
+        "description": "七七以普通攻擊或重擊命中敵人時，有機率附加度厄真符。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

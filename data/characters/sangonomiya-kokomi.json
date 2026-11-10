@@ -5,26 +5,38 @@
   "weapon": "Catalyst",
   "rarity": 5,
   "region": "稻妻",
-  "description": "",
+  "description": "海祇島現人神巫女，以水元素持續附著和治療聞名。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以法器發動對應元素的普通攻擊與重擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "海月之誓",
+      "description": "召喚化海月，持續對敵人造成水元素傷害並治療附近隊友。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "海人化羽",
+      "description": "釋放水元素傷害並進入儀來羽衣狀態，依生命值上限強化攻擊並治療隊伍。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "匣中玉櫛",
+        "description": "施放爆發時刷新化海月的存在時間。",
+        "icon": ""
+      },
+      {
+        "name": "真珠御唄",
+        "description": "依治療加成提高爆發狀態下的普通與重擊傷害。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

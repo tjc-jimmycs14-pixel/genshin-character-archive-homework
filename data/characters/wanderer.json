@@ -5,26 +5,38 @@
   "weapon": "Catalyst",
   "rarity": 5,
   "region": "",
-  "description": "",
+  "description": "以空中戰鬥為特色的風元素法器角色。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以法器發動對應元素的普通攻擊與重擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "羽畫·風姿華歌",
+      "description": "升空進入優風傾姿狀態，使用空居力維持懸浮並造成強化風元素攻擊。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "狂言·式樂五番",
+      "description": "凝聚強風並轟擊指定區域，造成多段風元素範圍傷害。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "拾玉得花",
+        "description": "戰技接觸其他元素時可獲得不同種類的增益。",
+        "icon": ""
+      },
+      {
+        "name": "夢跡一風",
+        "description": "懸浮時攻擊可蓄積特殊效果，令衝刺觸發額外風元素攻擊。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

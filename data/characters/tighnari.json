@@ -5,26 +5,38 @@
   "weapon": "Bow",
   "rarity": 5,
   "region": "須彌",
-  "description": "",
+  "description": "化城郭巡林官，擅長快速蓄力草元素箭與追蹤箭矢。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以弓箭進行普通攻擊；可蓄力瞄準，發射帶有元素傷害的箭矢。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "識果種雷",
+      "description": "丟出草元素識種心雷造成範圍傷害，留下領域干擾敵人並加快下一次蓄力瞄準。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "造生纏藤箭",
+      "description": "發射追蹤種子箭矢，命中後分裂成額外追蹤草元素攻擊。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "眼識殊明",
+        "description": "發射二段蓄力箭後，短暫提高元素精通。",
+        "icon": ""
+      },
+      {
+        "name": "諸葉辨通",
+        "description": "依元素精通提升蓄力箭與爆發傷害。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

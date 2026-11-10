@@ -5,26 +5,38 @@
   "weapon": "Polearm",
   "rarity": 4,
   "region": "",
-  "description": "",
+  "description": "西風騎士團測繪員，提供攻速、物理傷害增益與治療。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以長柄武器進行連續攻擊，可進行重擊與下落攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "星霜的旋舞",
+      "description": "以冰元素長槍攻擊並提高附近隊伍角色攻擊速度，亦可透過長按瞄準發射追蹤箭。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "蒼翎的頌願",
+      "description": "恢復隊伍生命值，並讓場上角色普通攻擊時持續得到治療。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "速射牽制",
+        "description": "戰技依命中敵人數量提供偵明效果，提高物理傷害。",
+        "icon": ""
+      },
+      {
+        "name": "地貌測繪經驗",
+        "description": "在小地圖上標示蒙德地區特產。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

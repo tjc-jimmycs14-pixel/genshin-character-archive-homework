@@ -5,26 +5,38 @@
   "weapon": "Catalyst",
   "rarity": 4,
   "region": "",
-  "description": "",
+  "description": "天領奉行偵探，以風元素拳擊與擴散反應作戰。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以法器發動對應元素的普通攻擊與重擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "勠心拳",
+      "description": "積蓄變格層數後施放威力更高的風元素拳擊。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "聚風蹴",
+      "description": "踢出風元素彈幕並聚集敵人，受到元素附著的敵人可觸發元素轉化。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "反論稽古",
+        "description": "觸發擴散反應時獲得變格，提高下一次戰技傷害。",
+        "icon": ""
+      },
+      {
+        "name": "因由勘破",
+        "description": "戰技命中時提高隊友元素精通。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

@@ -5,26 +5,38 @@
   "weapon": "Catalyst",
   "rarity": 5,
   "region": "蒙德",
-  "description": "",
+  "description": "占星術士，使用泡影爆發與增傷效果輔助隊伍。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以法器發動對應元素的普通攻擊與重擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "水中幻願",
+      "description": "召喚水之虛影牽制敵人，虛影造成水元素範圍傷害後爆炸。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "星命定軌",
+      "description": "以大範圍水元素傷害施加泡影與星異效果，提高敵人所受到的傷害。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "老太婆來抓我啊",
+        "description": "特殊衝刺後短暫持續形成水流虛影。",
+        "icon": ""
+      },
+      {
+        "name": "托付於命運吧！",
+        "description": "依元素充能效率提高水元素傷害。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

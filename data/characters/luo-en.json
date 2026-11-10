@@ -5,26 +5,38 @@
   "weapon": "Polearm",
   "rarity": 5,
   "region": "",
-  "description": "",
+  "description": "西風騎士團遠程小隊副隊長，使用冰元素長槍與特殊戰術作戰。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "西風槍術·破誓",
+      "description": "以長柄武器進行連續攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "奇兵詭出",
+      "description": "切換至奇謀狀態，累積特殊資源並發動強化冰元素攻擊。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "裁罰遂成",
+      "description": "向前快速連續斬擊造成冰元素傷害，依消耗的「爭勝」提高傷害；在奇謀狀態下施放可延長該狀態。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "禁問的訓誡",
+        "description": "奇謀狀態下，隊友造成高額傷害時可額外為洛恩累積爭勝。",
+        "icon": ""
+      },
+      {
+        "name": "戲言的傑作",
+        "description": "奇謀狀態下，隊友觸發冰元素相關反應後，提高洛恩與該隊友的攻擊力。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://genshindb.com/zh-tw/角色/洛恩",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

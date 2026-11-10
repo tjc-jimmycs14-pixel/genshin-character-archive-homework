@@ -5,26 +5,38 @@
   "weapon": "Bow",
   "rarity": 5,
   "region": "楓丹",
-  "description": "",
+  "description": "楓丹魔術師，以火元素蓄力射擊、禮花與怪笑貓貓帽輸出。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以弓箭進行普通攻擊；可蓄力瞄準，發射帶有元素傷害的箭矢。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "眩惑光戲法",
+      "description": "消耗身上層數發出火焰禮花，並引爆場上的怪笑貓貓帽。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "大魔術·靈跡巡遊",
+      "description": "變成怪笑帽帽貓移動與攻擊，結束時產生火元素爆炸。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "驚險演出",
+        "description": "重擊消耗生命值並獲得隱具餘數，強化戰技。",
+        "icon": ""
+      },
+      {
+        "name": "完場喝彩",
+        "description": "隊伍中火元素角色越多，提升林尼對火元素附著目標造成的傷害。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

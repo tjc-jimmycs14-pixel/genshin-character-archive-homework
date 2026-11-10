@@ -5,26 +5,38 @@
   "weapon": "Sword",
   "rarity": 4,
   "region": "楓丹",
-  "description": "",
+  "description": "楓丹魔術助理，能以風元素突進及召喚物牽制敵人。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以單手劍進行連續普通攻擊，可使用重擊與下落攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "謎影障身法",
+      "description": "突進攻擊敵人並造成風元素傷害，長按可標記與追擊目標。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "魔術·運變驚奇",
+      "description": "召喚驚奇貓貓盒，嘲諷附近敵人並持續攻擊；接觸部分元素後可追加對應元素傷害。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "巧施協同",
+        "description": "元素爆發依隊友不同元素類型提高攻擊力。",
+        "icon": ""
+      },
+      {
+        "name": "道具完備",
+        "description": "貓貓盒發生元素轉化後提高爆發傷害。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

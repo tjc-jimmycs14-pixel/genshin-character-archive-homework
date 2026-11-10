@@ -5,26 +5,38 @@
   "weapon": "Catalyst",
   "rarity": 5,
   "region": "納塔",
-  "description": "",
+  "description": "納塔的衝浪嚮導，使用水元素鯊魚衝浪板快速移動並輸出。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以法器發動對應元素的普通攻擊與重擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "破浪逐浪",
+      "description": "進入夜魂加持狀態，騎乘鯊鯊衝浪板，撞擊敵人標記後發動水元素鯊鯊撕咬。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "爆瀑飛彈",
+      "description": "發射特大號鯊魚飛彈，造成水元素範圍傷害。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "耐熱型淡水豚豚",
+        "description": "鯊鯊撕咬產生的特殊物件可恢復夜魂值。",
+        "icon": ""
+      },
+      {
+        "name": "納塔最棒嚮導",
+        "description": "夜魂迸發後強化元素爆發傷害。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

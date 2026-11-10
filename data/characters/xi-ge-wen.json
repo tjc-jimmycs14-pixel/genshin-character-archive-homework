@@ -5,26 +5,38 @@
   "weapon": "Bow",
   "rarity": 5,
   "region": "楓丹",
-  "description": "",
+  "description": "梅洛彼得堡護士長，以跳跳水球與治療支援隊伍。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以弓箭進行普通攻擊；可蓄力瞄準，發射帶有元素傷害的箭矢。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "跳跳水療法",
+      "description": "釋放彈跳的水球攻擊敵人、束縛較小目標，並為隊伍後台角色恢復生命值。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "過飽和心意注射",
+      "description": "以特製注射器持續噴射水元素，造成範圍傷害。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "應有適當的休憩",
+        "description": "戰技帶來後台戰技傷害增益效果。",
+        "icon": ""
+      },
+      {
+        "name": "細緻入微的診療",
+        "description": "依生命值上限提升治療能力。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

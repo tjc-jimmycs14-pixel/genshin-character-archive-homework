@@ -5,26 +5,38 @@
   "weapon": "Polearm",
   "rarity": 5,
   "region": "須彌",
-  "description": "",
+  "description": "須彌大風紀官，依節奏施展雷元素突進與長時間附魔攻擊。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以長柄武器進行連續攻擊，可進行重擊與下落攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "秘儀·律淵渡魂",
+      "description": "向前突進並造成雷元素傷害；在元素爆發狀態下可改為強化突進。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "聖儀·煟煌隨狼行",
+      "description": "召喚憑依的威儀，使普通攻擊轉為雷元素傷害並增加元素精通。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "落羽的裁擇",
+        "description": "爆發時依特定節奏施放戰技，可追加高倍率雷元素傷害。",
+        "icon": ""
+      },
+      {
+        "name": "九弓的執命",
+        "description": "依元素精通提高爆發狀態下的普通攻擊與戰技傷害。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

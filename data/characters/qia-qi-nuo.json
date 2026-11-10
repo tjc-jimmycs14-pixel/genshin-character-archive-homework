@@ -5,26 +5,38 @@
   "weapon": "Polearm",
   "rarity": 4,
   "region": "納塔",
-  "description": "",
+  "description": "納塔的岩元素少女，利用沖天轉轉進行機動與岩元素輸出。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以長柄武器進行連續攻擊，可進行重擊與下落攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "出擊，沖天轉轉！",
+      "description": "召喚沖天轉轉並進入夜魂加持，可騎乘移動、攀爬及造成岩元素傷害。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "現在，認真時間！",
+      "description": "發動岩元素範圍攻擊，並強化沖天轉轉的攻擊與行動。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "山的回聲",
+        "description": "附近隊友觸發夜魂迸發時，提升自身岩元素傷害。",
+        "icon": ""
+      },
+      {
+        "name": "岩心之歌",
+        "description": "依防禦力提高騎乘攻擊或爆發的傷害。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

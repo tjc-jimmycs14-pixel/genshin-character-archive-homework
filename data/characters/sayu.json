@@ -5,26 +5,38 @@
   "weapon": "Claymore",
   "rarity": 4,
   "region": "",
-  "description": "",
+  "description": "終末番忍者，可變成風輪快速移動並提供治療。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以雙手劍進行連續揮砍，可進行重擊與下落攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "嗚呼流·風隱急進",
+      "description": "化為風風輪向前滾動並造成風元素傷害，可吸收接觸到的元素並產生擴散。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "嗚呼流·影貉繚亂",
+      "description": "召喚不倒貉，依附近角色生命值狀態進行治療或風元素攻擊。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "更加適任的人選",
+        "description": "觸發擴散反應時，可為附近隊伍角色恢復生命值。",
+        "icon": ""
+      },
+      {
+        "name": "早柚不用工作啦",
+        "description": "不倒貉治療與攻擊時提升效果範圍與性能。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

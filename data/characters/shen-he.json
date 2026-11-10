@@ -5,26 +5,38 @@
   "weapon": "Polearm",
   "rarity": 5,
   "region": "",
-  "description": "",
+  "description": "留雲借風真君的弟子，專門增強冰元素傷害。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以長柄武器進行連續攻擊，可進行重擊與下落攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "仰靈威召將役咒",
+      "description": "施放冰元素突進或領域攻擊，為隊伍角色提供冰翎，增加冰元素攻擊傷害。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "神女遣靈真訣",
+      "description": "召喚箓靈造成持續冰元素傷害並降低敵人的冰元素與物理抗性。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "大洞彌羅尊法",
+        "description": "爆發領域內隊友的冰元素傷害提高。",
+        "icon": ""
+      },
+      {
+        "name": "縛靈通真法印",
+        "description": "依戰技點按或長按，分別增強隊友戰技／爆發或普通／重擊／下落攻擊傷害。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

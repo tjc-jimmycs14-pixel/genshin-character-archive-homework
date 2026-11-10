@@ -5,26 +5,38 @@
   "weapon": "Catalyst",
   "rarity": 5,
   "region": "稻妻",
-  "description": "",
+  "description": "鳴神大社宮司，擅長以場上的殺生櫻持續輸出雷元素傷害。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以法器發動對應元素的普通攻擊與重擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "野干役咒·殺生櫻",
+      "description": "向指定方向移動並留下殺生櫻，持續對附近敵人落雷。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "大密法·天狐顯真",
+      "description": "降下天狐霆雷造成雷元素範圍傷害，並消耗附近殺生櫻追加雷擊。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "神籬之御蔭",
+        "description": "爆發消耗殺生櫻後，可重置對應次數的戰技冷卻。",
+        "icon": ""
+      },
+      {
+        "name": "啟蟄之祝詞",
+        "description": "元素精通能提高殺生櫻造成的傷害。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

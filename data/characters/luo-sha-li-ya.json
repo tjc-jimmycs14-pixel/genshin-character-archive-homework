@@ -5,26 +5,38 @@
   "weapon": "Polearm",
   "rarity": 4,
   "region": "",
-  "description": "",
+  "description": "西風教會修女，能提高隊伍暴擊率並持續附著冰元素。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以長柄武器進行連續攻擊，可進行重擊與下落攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "噬罪的告解",
+      "description": "瞬間移動至敵人背後刺擊造成冰元素傷害。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "終命的聖禮",
+      "description": "召出冰槍造成冰元素範圍傷害，並定期在槍附近引發冰元素攻擊。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "聆聽懺悔的幽影",
+        "description": "戰技命中敵人背後時提高暴擊率。",
+        "icon": ""
+      },
+      {
+        "name": "暗中支援的黯色",
+        "description": "爆發後依羅莎莉亞暴擊率提高隊友的暴擊率。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

@@ -5,26 +5,38 @@
   "weapon": "Polearm",
   "rarity": 4,
   "region": "",
-  "description": "",
+  "description": "神里家的家政官，透過可刷新護盾與火元素協同攻擊保護隊伍。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以長柄武器進行連續攻擊，可進行重擊與下落攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "烈燒佑命之侍護",
+      "description": "向前刺擊造成火元素傷害，並展開可疊加的熾火護盾。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "真紅熾火之大鎧",
+      "description": "造成火元素範圍傷害並創造護盾；場上角色普通攻擊時，會觸發協同火元素攻擊並刷新護盾。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "甲衣交疊",
+        "description": "護盾刷新時提高護盾強效。",
+        "icon": ""
+      },
+      {
+        "name": "烈火攻燔",
+        "description": "依生命值上限提高元素爆發的傷害。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

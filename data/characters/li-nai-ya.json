@@ -5,26 +5,33 @@
   "weapon": "Bow",
   "rarity": 5,
   "region": "",
-  "description": "",
+  "description": "冒險家協會博物學家，使用露米進行岩元素攻擊與治療。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "捕獲方案",
+      "description": "以弓箭進行連續射擊，蓄力箭造成岩元素傷害。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "對策·露米呀吼吼！",
+      "description": "召喚露米對附近敵人進行岩元素攻擊；追加操作能進行更強的月結晶類型攻擊。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "備忘·絕境生存指南",
+      "description": "召喚露米並為隊伍提供治療，依自身防禦力恢復角色生命值。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "露米協同（摘要）",
+        "description": "露米的不同出擊形態能影響攻擊與治療效果。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://genshin-center.com/zh-Hant/characters/linnea",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

@@ -5,26 +5,38 @@
   "weapon": "Catalyst",
   "rarity": 4,
   "region": "",
-  "description": "",
+  "description": "璃月法律顧問，以丹火印與重擊進行火元素輸出。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以法器發動對應元素的普通攻擊與重擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "丹書立約",
+      "description": "召喚火焰攻擊敵人並授予丹火印，降低重擊體力消耗並提高其威力。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "憑此結契",
+      "description": "造成火元素範圍傷害並賦予灼灼狀態，持續獲得丹火印並強化重擊。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "關鍵條款",
+        "description": "重擊消耗丹火印時提高火元素傷害。",
+        "icon": ""
+      },
+      {
+        "name": "法獸灼眼",
+        "description": "重擊造成暴擊時會追加火元素範圍傷害。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

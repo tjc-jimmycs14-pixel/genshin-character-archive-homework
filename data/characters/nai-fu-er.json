@@ -5,26 +5,38 @@
   "weapon": "Catalyst",
   "rarity": 5,
   "region": "",
-  "description": "",
+  "description": "秘聞館之主，使用草元素法器與月綻放機制作戰。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "遊虵吐信",
+      "description": "以草元素踢擊攻擊敵人，重擊可快速移動。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "弈術·千夜一舞",
+      "description": "進入影舞狀態，透過草元素戰技與特殊重擊進行連續攻擊。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "聖約·真眸幻戲",
+      "description": "施展草元素範圍爆發，強化與月綻放相關的戰鬥效果。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "月下的豪賭",
+        "description": "月兆達滿輝時，可創造誑言之核並透過重擊獲得特殊增益。",
+        "icon": ""
+      },
+      {
+        "name": "塵沙的女兒",
+        "description": "影舞狀態下觸發月綻放反應能提供更多草露。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

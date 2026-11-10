@@ -5,26 +5,33 @@
   "weapon": "Catalyst",
   "rarity": 5,
   "region": "",
-  "description": "",
+  "description": "魔女會成員，以火元素護盾與隊友協同攻擊為特色。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "託喻",
+      "description": "施展法器火元素連續攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "聖言默示·未現之光",
+      "description": "為隊伍賦予攻擊力增益並創造火元素護盾，同時造成火元素範圍傷害。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "聖言默示·天路歷程",
+      "description": "切換到默觀頌禱狀態，讓場上隊友的攻擊觸發對應元素的協同攻擊。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "援護與護盾（摘要）",
+        "description": "透過護盾、攻擊力增益和協同攻擊支援隊伍。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://genshin-center.com/zh-Hant/characters/nicole",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

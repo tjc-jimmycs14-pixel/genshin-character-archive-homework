@@ -5,26 +5,38 @@
   "weapon": "Claymore",
   "rarity": 5,
   "region": "",
-  "description": "",
+  "description": "愚人眾執行官「木偶」，以自動機關與冰元素攻擊作戰。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "事象數式·自明演繹",
+      "description": "操縱兵刃連續揮砍，重擊召喚法潔歐發射冰元素射線。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "事象數式·游衍解析",
+      "description": "搭乘懸浮機關移動，對敵人發射冰元素稜晶彈。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "事象數式·萬理證畢",
+      "description": "召出稜晶諧振炮進行轟炸，再以聚能光束造成冰元素範圍傷害。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "悠久的演算機關",
+        "description": "根據法潔歐的解算功率，強化攻擊與元素爆發。",
+        "icon": ""
+      },
+      {
+        "name": "淑女的行事準則",
+        "description": "依攻擊力提高元素精通。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://genshin-center.com/zh-Hant/characters/sandrone",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

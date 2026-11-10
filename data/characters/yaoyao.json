@@ -5,26 +5,38 @@
   "weapon": "Polearm",
   "rarity": 4,
   "region": "璃月",
-  "description": "",
+  "description": "璃月的草元素長柄武器角色，擅長兼顧治療與草元素附著。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以長柄武器進行連續攻擊，可進行重擊與下落攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "雲臺團團降蘆菔",
+      "description": "召喚月桂投擲白玉蘿蔔，依附近目標生命值提供草元素攻擊或治療。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "玉顆珊珊月中落",
+      "description": "召喚多個月桂並進入強化奔跑狀態，持續治療隊友並對敵人造成草元素傷害。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "天星漫散",
+        "description": "爆發狀態下衝刺或跳躍可投擲額外白玉蘿蔔。",
+        "icon": ""
+      },
+      {
+        "name": "推己及人",
+        "description": "白玉蘿蔔爆炸可提供持續恢復生命值的效果。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

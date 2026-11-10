@@ -5,26 +5,38 @@
   "weapon": "Sword",
   "rarity": 5,
   "region": "",
-  "description": "",
+  "description": "至冬軍隊司令，以風元素劍技與星擴散反應作戰。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "巡風劍舞",
+      "description": "以單手劍進行連續攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "操典·制勝有道",
+      "description": "進入巡風列裝狀態，使普通與重擊轉為風元素攻擊，並召喚風翎協同攻擊。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "致禮·獻予女皇陛下",
+      "description": "召喚多把靈劍，造成風元素範圍傷害。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "儀典·春之行列",
+        "description": "特殊戰技與爆發能累積層數以提高靈劍傷害。",
+        "icon": ""
+      },
+      {
+        "name": "理典·冬之凱風",
+        "description": "依隊伍元素構成提高攻擊力或元素精通。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://genshin-center.com/zh-Hant/characters/vesna",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

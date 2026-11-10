@@ -5,26 +5,33 @@
   "weapon": "Sword",
   "rarity": 4,
   "region": "至冬",
-  "description": "",
+  "description": "至冬愚人眾部隊軍官，以護盾、雷元素彈幕及星超導作戰。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "近衛戰法·盾劍攻斥",
+      "description": "以單手劍進行連擊，可消耗衝擊勢能發動特殊重擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "攻勢防禦·堡壘驟進",
+      "description": "舉盾向前衝刺造成雷元素傷害，生成以攻擊力計算的雷元素護盾。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "火力焦點·雷霰急襲",
+      "description": "向高空射出雷霰重彈，再降下大範圍雷元素彈幕。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "與徐進彈幕為伴",
+        "description": "元素爆發可依自身特殊資源強化攻擊性能。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://genshin-center.com/zh-Hant/characters/valeriy",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

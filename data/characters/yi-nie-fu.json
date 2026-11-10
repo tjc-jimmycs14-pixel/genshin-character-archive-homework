@@ -5,26 +5,33 @@
   "weapon": "Polearm",
   "rarity": 5,
   "region": "",
-  "description": "",
+  "description": "挪德卡萊的機械人，以雷元素護盾、召喚物與月感電支援作戰。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "除塵旋刃",
+      "description": "使用長柄武器連續攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "滌淨模式·穩態載頻",
+      "description": "展開以攻擊力計算吸收量的雷元素護盾，並召喚薇爾琪塔進行持續雷元素攻擊。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "至高律令·全域掃滅",
+      "description": "以薇爾琪塔發射火箭飛拳，造成雷元素範圍傷害並刷新召喚物。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "月感電支援（摘要）",
+        "description": "伊涅芙能配合水與雷元素隊伍，幫助觸發月感電類型反應。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

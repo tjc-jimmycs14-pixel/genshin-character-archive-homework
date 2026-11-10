@@ -5,26 +5,38 @@
   "weapon": "Claymore",
   "rarity": 5,
   "region": "納塔",
-  "description": "",
+  "description": "納塔的火之神，以戰意系統、機車戰法與爆發傷害聞名。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "以火織命",
+      "description": "進行連續雙手劍揮砍，重擊發動強力斬擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "稱名之刻",
+      "description": "召喚諸火武裝；點按展開環繞火元素攻擊，長按則可駕駛機車快速移動與作戰。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "燔天之時",
+      "description": "消耗戰意釋放強力火元素攻擊，並在烈陽之焰狀態下強化火元素戰鬥性能。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "破夜的明焰",
+        "description": "周圍角色消耗夜魂值時可獲得戰意。",
+        "icon": ""
+      },
+      {
+        "name": "基揚戈茲",
+        "description": "依戰意與使用爆發的情況提高隊友造成的傷害。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }
