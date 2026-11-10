@@ -5,26 +5,33 @@
   "weapon": "Sword",
   "rarity": 5,
   "region": "",
-  "description": "",
+  "description": "由故事走入現實的龍，擅長切換不同火元素戰鬥形態。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "芒焰之翼斬",
+      "description": "使用單手劍連續攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "二元式·聚分熔煉",
+      "description": "依操作將力量轉換為白化或黑度形態，造成火元素攻擊並改變後續爆發效果。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "白化法·如光流變／黑度法·如星陰燃",
+      "description": "依當前狀態造成多段火元素傷害，召喚白焰之龍或黑蝕之龍協同攻擊。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "光靈遵神數顯現",
+        "description": "根據爆發顯現的力量形態，提供不同強化效果。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://genshin-center.com/zh-Hant/characters/durin",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

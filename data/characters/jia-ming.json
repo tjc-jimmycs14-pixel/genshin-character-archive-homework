@@ -5,26 +5,38 @@
   "weapon": "Claymore",
   "rarity": 4,
   "region": "璃月",
-  "description": "",
+  "description": "璃月鏢師，透過火元素下落攻擊與舞獅戰法造成傷害。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以雙手劍進行連續揮砍，可進行重擊與下落攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "獸舞跳跳",
+      "description": "向前飛躍並施展下落攻擊「踏雲獻瑞」，造成火元素傷害。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "燦焰金猊舞",
+      "description": "進入舞獅狀態並召喚文仔，能治療自身並刷新戰技以持續下落攻擊。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "祥煙瑞氣",
+        "description": "踏雲獻瑞命中敵人時為嘉明持續恢復生命值。",
+        "icon": ""
+      },
+      {
+        "name": "舞獅功法",
+        "description": "嘉明生命值較高時，提高踏雲獻瑞的傷害。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

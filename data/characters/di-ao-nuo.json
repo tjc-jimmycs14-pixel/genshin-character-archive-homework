@@ -5,26 +5,38 @@
   "weapon": "Bow",
   "rarity": 4,
   "region": "",
-  "description": "",
+  "description": "貓尾酒館調酒師，提供冰元素護盾與範圍治療。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以弓箭進行普通攻擊；可蓄力瞄準，發射帶有元素傷害的箭矢。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "貓爪凍凍",
+      "description": "發射貓爪造成冰元素傷害並生成護盾，長按可提高護盾強度與持續時間。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "最烈特調",
+      "description": "投出冰元素特調，持續對敵人造成冰元素傷害並治療領域內角色。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "貓尾隱藏菜單",
+        "description": "擁有護盾的角色移動速度提高、體力消耗降低。",
+        "icon": ""
+      },
+      {
+        "name": "滑稽百出的醉相",
+        "description": "特調領域內敵人的攻擊力降低。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

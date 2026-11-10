@@ -5,26 +5,38 @@
   "weapon": "Polearm",
   "rarity": 5,
   "region": "",
-  "description": "",
+  "description": "挪德卡萊執燈人，以雷元素與月感電反應輸出。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "扈聖魔槍",
+      "description": "使用長柄武器連續攻擊與擲槍重擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "古律·孤燈遺秘",
+      "description": "切換幽焰顯跡模式，使普通攻擊與重擊附加雷元素傷害，並獲得特殊戰鬥能力。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "舊儀·夜客致訪",
+      "description": "釋放多段雷元素攻擊，部分傷害視為月感電反應；在特殊戰技後可切換為雷霆交響。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "寒冬的交響",
+        "description": "月兆條件滿足時，可提高月感電反應傷害。",
+        "icon": ""
+      },
+      {
+        "name": "幽焰的呢喃",
+        "description": "依攻擊力提高元素精通。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

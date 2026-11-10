@@ -5,26 +5,33 @@
   "weapon": "Claymore",
   "rarity": 5,
   "region": "",
-  "description": "",
+  "description": "西風騎士團大團長，使用雙持大劍與風元素戰法。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "西風劍術·流光之舞",
+      "description": "雙持大劍進行連續劍術攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "烈風終墜",
+      "description": "進入狂飆突進模式，使用強化雙劍攻擊與風元素特殊招式。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "我即朔風",
+      "description": "向前施展兩段強力斬擊，第一段可依隊友元素類型轉化傷害屬性。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "北風騎士戰法（摘要）",
+        "description": "在狂飆突進狀態下可運用不同元素類型的加成進行輸出。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://genshin-center.com/zh-Hant/characters/varka",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

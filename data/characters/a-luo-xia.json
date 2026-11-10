@@ -5,26 +5,38 @@
   "weapon": "Polearm",
   "rarity": 4,
   "region": "",
-  "description": "",
+  "description": "至冬獵人，以雷元素標記、召喚圖加林與輔助增益支援隊伍。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "角槍馳弋",
+      "description": "使用長柄武器進行最多四段連續槍擊，最後一擊可施加弋獵印記；重擊向前突刺。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "伏襲霆擊",
+      "description": "發射雷元素攻擊並標記敵人，能依點按或長按選定多個目標。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "守獵進踞",
+      "description": "召喚圖加林並創造雷元素領域，持續嘲諷敵人和造成雷元素傷害。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "星赴險域",
+        "description": "在特定星超導環境下強化隊友反應傷害。",
+        "icon": ""
+      },
+      {
+        "name": "驚醒沉睡的林線",
+        "description": "召喚物攻擊時可治療場上角色。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://genshin-center.com/zh-Hant/characters/alyosha",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

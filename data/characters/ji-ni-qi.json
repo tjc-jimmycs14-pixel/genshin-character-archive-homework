@@ -5,26 +5,38 @@
   "weapon": "Claymore",
   "rarity": 5,
   "region": "納塔",
-  "description": "",
+  "description": "納塔的獵龍人，使用鉤索與草元素炮擊作戰。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "夜陽鬥技",
+      "description": "連續雙手劍攻擊；鉤索移動後還可在空中追加攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "懸獵·遊騁高狩",
+      "description": "以鉤索快速移動並鎖定敵人，進入夜魂狀態後環繞射擊，積蓄力量施放草元素迴獵貫鱗炮。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "向偉大聖龍致意",
+      "description": "召喚阿喬化為巨龍，持續噴吐草元素傷害。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "噩地的代價",
+        "description": "被戰技標記的敵人受到燃燒或烈綻放傷害時，基尼奇能獲得夜魂值。",
+        "icon": ""
+      },
+      {
+        "name": "焰靈的契約",
+        "description": "附近角色觸發夜魂迸發可強化迴獵貫鱗炮。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

@@ -5,26 +5,38 @@
   "weapon": "Sword",
   "rarity": 5,
   "region": "稻妻",
-  "description": "",
+  "description": "社奉行神里家家主，以高速水元素普通攻擊與持續降水領域作戰。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以單手劍進行連續普通攻擊，可使用重擊與下落攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "神里流·鏡花",
+      "description": "進入瀧迴鑑花狀態，連續施展高速水元素瞬水劍。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "神里流·水囿",
+      "description": "展開持續降下水花的領域，在範圍內造成水元素傷害並提高普通攻擊傷害。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "神里流·清瀧繞峰",
+        "description": "戰技期間可更快取得浪閃層數，提升瞬水劍傷害。",
+        "icon": ""
+      },
+      {
+        "name": "神里流·破月漸盈",
+        "description": "非場上時且元素能量較低，可持續恢復元素能量。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

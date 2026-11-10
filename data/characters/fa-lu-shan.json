@@ -5,26 +5,38 @@
   "weapon": "Bow",
   "rarity": 4,
   "region": "",
-  "description": "",
+  "description": "須彌知論派前輩，特別擅長增強風元素主輸出。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以弓箭進行普通攻擊；可蓄力瞄準，發射帶有元素傷害的箭矢。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "非想風天",
+      "description": "釋放風元素攻擊並獲得疾風示現，使下一次瞄準射擊造成風元素聚集效果。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "摶風秘道",
+      "description": "召喚赫耀多方面體，移動時持續提供風元素傷害加成與敵人風元素減抗。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "迅捷流風",
+        "description": "戰技狀態下縮短瞄準蓄力時間。",
+        "icon": ""
+      },
+      {
+        "name": "七窟遺智",
+        "description": "根據自身基礎攻擊力提高隊友的風元素傷害。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

@@ -5,26 +5,38 @@
   "weapon": "Bow",
   "rarity": 5,
   "region": "璃月",
-  "description": "",
+  "description": "月海亭秘書，以二段蓄力霜華矢與持續冰元素範圍傷害作戰。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以弓箭進行普通攻擊；可蓄力瞄準，發射帶有元素傷害的箭矢。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "山澤麟跡",
+      "description": "留下冰蓮並後撤；冰蓮吸引敵人，消失或被擊破時造成冰元素範圍傷害。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "降眾天華",
+      "description": "召喚冰靈珠持續落下冰棱，在大範圍內造成冰元素傷害。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "唯此一心",
+        "description": "發射霜華矢後，短暫提高下一次霜華矢的暴擊率。",
+        "icon": ""
+      },
+      {
+        "name": "天地交泰",
+        "description": "處於爆發領域內的角色獲得冰元素傷害加成。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

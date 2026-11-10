@@ -5,26 +5,38 @@
   "weapon": "Claymore",
   "rarity": 4,
   "region": "",
-  "description": "",
+  "description": "璃月方士，擅長冰元素附魔與範圍爆發。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以雙手劍進行連續揮砍，可進行重擊與下落攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "靈刃·重華疊霜",
+      "description": "創造冰元素領域，讓近戰隊友普通攻擊獲得冰元素附魔。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "靈刃·雲開星落",
+      "description": "召喚數柄巨大冰刃，對前方敵人造成冰元素範圍傷害。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "吐納真定",
+        "description": "領域內近戰角色的普通攻擊速度提高。",
+        "icon": ""
+      },
+      {
+        "name": "追冰劍訣",
+        "description": "領域消失時召喚額外冰刃並降低命中敵人的冰元素抗性。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

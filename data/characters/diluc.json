@@ -5,26 +5,38 @@
   "weapon": "Claymore",
   "rarity": 5,
   "region": "蒙德",
-  "description": "",
+  "description": "晨曦酒莊主人，以連續火元素劍技與鳳凰爆發作戰。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以雙手劍進行連續揮砍，可進行重擊與下落攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "逆焰之刃",
+      "description": "能連續施放三次火元素斬擊，造成火元素傷害。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "黎明",
+      "description": "放出火焰鳳凰擊退敵人並造成火元素範圍傷害，之後讓普通攻擊獲得火元素附魔。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "永不休止",
+        "description": "降低重擊體力消耗並延長重擊時間。",
+        "icon": ""
+      },
+      {
+        "name": "熔毀之翼",
+        "description": "爆發後火元素附魔持續時間延長並提高火元素傷害。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

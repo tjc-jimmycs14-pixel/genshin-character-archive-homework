@@ -5,26 +5,38 @@
   "weapon": "Polearm",
   "rarity": 4,
   "region": "",
-  "description": "",
+  "description": "阿如村守護者，提供水元素附魔與普通攻擊支援。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以長柄武器進行連續攻擊，可進行重擊與下落攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "聖儀·蒼鷺庇衛",
+      "description": "舉盾防禦並吸收傷害，鬆開或蓄力後以水元素衝擊反擊敵人。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "聖儀·灰鴒衒潮",
+      "description": "展開赤冕祝禱，強化隊友普通攻擊並給近戰角色提供水元素附魔。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "流羽交護",
+        "description": "戰技長按時受到攻擊，可更快完成蓄力。",
+        "icon": ""
+      },
+      {
+        "name": "漫沙隕穹",
+        "description": "隊友造成元素普通攻擊傷害時，依坎蒂絲生命值上限提高傷害。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

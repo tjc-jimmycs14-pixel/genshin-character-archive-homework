@@ -5,26 +5,38 @@
   "weapon": "Sword",
   "rarity": 5,
   "region": "璃月",
-  "description": "",
+  "description": "璃月七星的玉衡星，以雷楔位移與高速雷元素攻擊為特色。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以單手劍進行連續普通攻擊，可使用重擊與下落攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "星斗歸位",
+      "description": "投出雷楔；再次施放可瞬移至雷楔位置並發動斬擊，或以重擊引爆雷楔。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "天街巡遊",
+      "description": "以高速劍影對周圍敵人造成多段雷元素傷害。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "抵天雷罰",
+        "description": "再次施放戰技後，普通攻擊與重擊短暫獲得雷元素附魔。",
+        "icon": ""
+      },
+      {
+        "name": "玉衡之貴",
+        "description": "施放爆發後短暫提高暴擊率與元素充能效率。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

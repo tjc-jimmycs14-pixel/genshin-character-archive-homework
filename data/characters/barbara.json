@@ -5,26 +5,38 @@
   "weapon": "Catalyst",
   "rarity": 4,
   "region": "蒙德",
-  "description": "",
+  "description": "西風教會祈禮牧師，以水元素治療為主。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以法器發動對應元素的普通攻擊與重擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "演唱，開始♪",
+      "description": "召喚歌聲之環，定期治療場上角色並使附近敵人附著水元素。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "閃耀奇蹟♪",
+      "description": "立即恢復隊伍中所有角色的大量生命值。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "光輝的季節",
+        "description": "歌聲之環存在時，降低場上角色體力消耗。",
+        "icon": ""
+      },
+      {
+        "name": "安可",
+        "description": "獲得元素微粒時可延長歌聲之環的持續時間。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

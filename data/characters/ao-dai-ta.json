@@ -5,26 +5,33 @@
   "weapon": "Sword",
   "rarity": 5,
   "region": "",
-  "description": "",
+  "description": "至冬芭蕾舞者，以冰元素舞步與獨舞倒影作戰。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "雪鵠變奏",
+      "description": "施展冰元素主題的連續劍術攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "柔板·幻靈夜舞",
+      "description": "以冰元素舞步攻擊敵人並召喚獨舞倒影，能產生後續協同攻擊。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "疾板·蒼羽一夢",
+      "description": "展開多段冰元素範圍斬擊，強化星爍反應並短暫改變戰技形態。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "星爍舞步（摘要）",
+        "description": "與冰元素相關的特殊反應可強化獨舞倒影的輸出效果。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://genshin-center.com/zh-Hant/characters/odette",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

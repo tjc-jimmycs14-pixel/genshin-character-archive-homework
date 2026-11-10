@@ -5,26 +5,38 @@
   "weapon": "Bow",
   "rarity": 4,
   "region": "",
-  "description": "",
+  "description": "天領奉行的大將，擅長藉由雷擊為隊友提升攻擊力。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以弓箭進行普通攻擊；可蓄力瞄準，發射帶有元素傷害的箭矢。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "鴉羽天狗霆雷召咒",
+      "description": "以天狗身法快速後撤並獲得烏羽護持，蓄力射擊留下烏羽；烏羽爆發後提供雷元素傷害與攻擊力增益。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "煌煌千道鎮式",
+      "description": "召喚雷光轟擊前方並展開後續雷擊，為範圍內角色提供與戰技相應的攻擊力增益。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "不動心",
+        "description": "獲得烏羽護持時，縮短蓄力瞄準所需時間。",
+        "icon": ""
+      },
+      {
+        "name": "御公儀",
+        "description": "烏羽造成傷害時可替隊友恢復元素能量。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

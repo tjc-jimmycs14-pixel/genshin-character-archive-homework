@@ -5,26 +5,38 @@
   "weapon": "Claymore",
   "rarity": 4,
   "region": "",
-  "description": "",
+  "description": "挪德卡萊的機械發明家，以水元素裝置進行戰鬥與支援。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "敲打修理法",
+      "description": "揮動雙手劍進行三段連續攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "妙思捕手",
+      "description": "投擲機械裝置造成水元素傷害，並牽引自己向前方移動。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "精密水冷儀",
+      "description": "釋放機械裝置持續對附近敵人造成水元素攻擊。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "模組式高效運作",
+        "description": "在月兆滿輝狀態下，強化噴水機關的攻擊頻率與範圍。",
+        "icon": ""
+      },
+      {
+        "name": "結構化功率提升",
+        "description": "依元素精通提高元素爆發傷害。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

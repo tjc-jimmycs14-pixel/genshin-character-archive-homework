@@ -5,26 +5,38 @@
   "weapon": "Sword",
   "rarity": 4,
   "region": "",
-  "description": "",
+  "description": "西風騎士團騎兵隊長，能為隊伍提供穩定的冰元素附著。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以單手劍進行連續普通攻擊，可使用重擊與下落攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "霜襲",
+      "description": "向前方釋放急速冰元素衝擊，對敵人造成冰元素傷害。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "凜冽輪舞",
+      "description": "在角色周圍召喚旋轉冰棱，持續對接近的敵人造成冰元素傷害。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "冷血之劍",
+        "description": "戰技命中敵人時，依自身攻擊力治療凱亞。",
+        "icon": ""
+      },
+      {
+        "name": "冰淵之心",
+        "description": "戰技凍結敵人時可產生額外元素微粒。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

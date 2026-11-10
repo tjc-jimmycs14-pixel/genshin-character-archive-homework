@@ -5,26 +5,38 @@
   "weapon": "Sword",
   "rarity": 5,
   "region": "須彌",
-  "description": "",
+  "description": "須彌教令院書記官，以琢光鏡持續輸出草元素傷害。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以單手劍進行連續普通攻擊，可使用重擊與下落攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "共相·理式摹寫",
+      "description": "突進造成草元素傷害並獲得琢光鏡，琢光鏡能使普通攻擊草元素附魔與追加協同攻擊。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "殊境·顯象縛結",
+      "description": "消耗琢光鏡施展多段草元素範圍攻擊，並依消耗數量決定後續獲得的琢光鏡。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "四因訂頑",
+        "description": "重擊或下落攻擊命中敵人時，可獲得琢光鏡。",
+        "icon": ""
+      },
+      {
+        "name": "謎林道破",
+        "description": "依元素精通提高琢光鏡協同攻擊和爆發傷害。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

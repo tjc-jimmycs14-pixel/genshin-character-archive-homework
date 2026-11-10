@@ -5,26 +5,38 @@
   "weapon": "Bow",
   "rarity": 4,
   "region": "須彌",
-  "description": "",
+  "description": "化城郭巡林員，擅長遠距離草元素附著。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以弓箭進行普通攻擊；可蓄力瞄準，發射帶有元素傷害的箭矢。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "拂花偈葉",
+      "description": "投出飛葉輪，返回途中對路徑上的敵人造成草元素傷害。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "貓貓秘寶",
+      "description": "投擲柯里安巴玩偶，形成持續造成草元素範圍傷害的領域。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "飛葉迴斜",
+        "description": "飛葉輪返回前觸發草元素反應時，可產生額外草元素持續傷害。",
+        "icon": ""
+      },
+      {
+        "name": "徐如曠林",
+        "description": "領域內觸發草元素反應時可延長元素爆發持續時間。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

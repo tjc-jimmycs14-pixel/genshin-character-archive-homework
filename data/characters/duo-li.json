@@ -5,26 +5,38 @@
   "weapon": "Claymore",
   "rarity": 4,
   "region": "",
-  "description": "",
+  "description": "須彌商人，利用鎮靈為隊伍提供治療與回能。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以雙手劍進行連續揮砍，可進行重擊與下落攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "鎮靈之燈·煩惱解決炮",
+      "description": "發射雷元素炮彈攻擊敵人，命中後分裂成追蹤彈。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "卡薩扎萊宮的無微不至",
+      "description": "召喚燈中鎮靈，與場上角色連線恢復生命值、元素能量並對經過的敵人造成雷元素傷害。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "意外訂單",
+        "description": "隊伍觸發雷元素相關反應可減少戰技冷卻時間。",
+        "icon": ""
+      },
+      {
+        "name": "利上加利",
+        "description": "戰技命中後，依元素充能效率恢復能量。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

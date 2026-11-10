@@ -5,26 +5,38 @@
   "weapon": "Polearm",
   "rarity": 4,
   "region": "",
-  "description": "",
+  "description": "雲翰社名角，以防禦力提高隊友普通攻擊傷害。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以長柄武器進行連續攻擊，可進行重擊與下落攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "旋雲開相",
+      "description": "舉槍防禦並反擊，依蓄力程度造成不同強度岩元素傷害。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "破嶂見旌儀",
+      "description": "展開飛雲旗陣，提高隊伍角色普通攻擊造成的傷害。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "務守本真",
+        "description": "受到攻擊時使用戰技可直接觸發高級蓄力反擊。",
+        "icon": ""
+      },
+      {
+        "name": "莫從恆蹊",
+        "description": "隊伍元素類型越多，提升普通攻擊增益的效果。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

@@ -5,26 +5,38 @@
   "weapon": "Catalyst",
   "rarity": 4,
   "region": "",
-  "description": "",
+  "description": "自稱魔女獵人的風元素法器角色，以敲鈴與元素轉化作戰。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "隆咚咚·破魔之錘",
+      "description": "使用風元素巨錘進行三段普通攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "叮鈴鈴·獵魔之音",
+      "description": "用錘擊響誘巫餌鈴，觸發擴散後能施放轉化為其他元素的特殊攻擊。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "鈴鳴·狩魔之刻",
+      "description": "召喚跟隨場上角色的誘巫餌鈴，持續對附近敵人造成風元素傷害。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "裁斷追懲",
+        "description": "召喚物觸發擴散或星擴散後，會產生額外的轉化元素攻擊。",
+        "icon": ""
+      },
+      {
+        "name": "振鈴同心",
+        "description": "經過元素轉化的錘擊能提升隊友造成的傷害。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://genshin-center.com/zh-Hant/characters/prune",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

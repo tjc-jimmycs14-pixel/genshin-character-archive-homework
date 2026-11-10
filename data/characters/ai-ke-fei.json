@@ -5,26 +5,38 @@
   "weapon": "Polearm",
   "rarity": 5,
   "region": "",
-  "description": "",
+  "description": "楓丹主廚，兼具冰元素後台攻擊、減抗與治療。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "後廚手藝",
+      "description": "以長柄武器進行連續刺擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "低溫烹飪",
+      "description": "啟動廚藝機關，持續對附近敵人造成冰元素傷害；長按可切換成特殊料理模式。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "花刀技法",
+      "description": "以冰元素範圍攻擊敵人，並為附近全隊角色恢復生命值。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "美食勝過良藥",
+        "description": "爆發後持續治療目前場上角色。",
+        "icon": ""
+      },
+      {
+        "name": "靈感浸入調味",
+        "description": "依隊伍中水、冰元素角色數量降低敵人的對應元素抗性。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://genshin-center.com/zh-Hant/characters/escoffier",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

@@ -5,26 +5,38 @@
   "weapon": "Claymore",
   "rarity": 4,
   "region": "璃月",
-  "description": "",
+  "description": "南十字船隊船長，能格擋敵方攻擊並釋放連鎖雷電。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以雙手劍進行連續揮砍，可進行重擊與下落攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "捉浪",
+      "description": "舉劍防禦並吸收傷害，鬆開時依承受攻擊程度釋放雷元素反擊。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "斫雷",
+      "description": "召出雷獸之盾，普通攻擊與重擊命中時會觸發能在敵人間彈跳的雷電。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "遍宇靈光",
+        "description": "施放戰技受到攻擊時能產生護盾。",
+        "icon": ""
+      },
+      {
+        "name": "霹靂連霄",
+        "description": "完美時機反擊或承受特定次數傷害後，提升普通攻擊和重擊的性能。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

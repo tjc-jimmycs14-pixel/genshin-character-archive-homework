@@ -5,26 +5,38 @@
   "weapon": "Sword",
   "rarity": 5,
   "region": "蒙德",
-  "description": "",
+  "description": "西風騎士團代理團長，兼具聚怪、治療與風元素擴散。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以單手劍進行連續普通攻擊，可使用重擊與下落攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "風壓劍",
+      "description": "聚集周圍敵人並擊飛，造成風元素傷害。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "蒲公英之風",
+      "description": "展開蒲公英領域，立即治療全隊並持續恢復場上角色生命值，同時造成風元素傷害。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "順風而行",
+        "description": "普通攻擊命中時有機會治療全隊角色。",
+        "icon": ""
+      },
+      {
+        "name": "聽憑風引",
+        "description": "元素爆發結束後恢復部分元素能量。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

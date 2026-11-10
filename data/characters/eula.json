@@ -5,26 +5,38 @@
   "weapon": "Claymore",
   "rarity": 5,
   "region": "蒙德",
-  "description": "",
+  "description": "西風騎士團的浪花騎士，以物理傷害與蓄力光降之劍為主要輸出方式。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以雙手劍進行連續揮砍，可進行重擊與下落攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "冰潮的渦旋",
+      "description": "揮劍造成冰元素傷害並獲得冷酷之心；長按可消耗層數削減敵人抗性。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "凝浪之光劍",
+      "description": "釋放冰元素傷害並創造光降之劍；攻擊累積能量後爆發，造成大量物理傷害。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "潮捲冰削",
+        "description": "長按戰技消耗冷酷之心可觸發額外光劍傷害。",
+        "icon": ""
+      },
+      {
+        "name": "戰欲湧現",
+        "description": "施放爆發可重置戰技冷卻並直接獲得冷酷之心。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

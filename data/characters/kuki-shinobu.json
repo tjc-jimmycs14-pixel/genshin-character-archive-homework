@@ -5,26 +5,38 @@
   "weapon": "Sword",
   "rarity": 4,
   "region": "稻妻",
-  "description": "",
+  "description": "荒瀧派的可靠副手，利用雷元素草輪持續治療與後台附著。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以單手劍進行連續普通攻擊，可使用重擊與下落攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "越祓雷草之輪",
+      "description": "消耗部分自身生命值召出越祓草輪，持續對附近敵人施加雷元素傷害並治療場上角色。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "御詠鳴神刈山祭",
+      "description": "展開雷元素結界，在範圍內連續造成雷元素傷害。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "破籠之志",
+        "description": "自身生命值較低時提高治療加成。",
+        "icon": ""
+      },
+      {
+        "name": "安心之所",
+        "description": "元素精通能增加戰技的治療與傷害。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

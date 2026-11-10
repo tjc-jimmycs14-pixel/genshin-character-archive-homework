@@ -5,26 +5,38 @@
   "weapon": "Catalyst",
   "rarity": 4,
   "region": "",
-  "description": "",
+  "description": "沉玉谷藤編師，以風元素護盾、聚怪與元素轉化支援。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "玄鸞畫水",
+      "description": "投擲翦月環進行連續風元素攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "鳳縷隨翦舞",
+      "description": "展開風元素護盾並突進，接觸敵人後後躍投出翦月環。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "鶤弦踏月出",
+      "description": "展開銀燕翦月陣，牽引附近敵人並造成多段風元素範圍傷害。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "四戈封刀靈卜",
+        "description": "護盾接觸元素後可轉化屬性，提高對該元素的吸收效果。",
+        "icon": ""
+      },
+      {
+        "name": "蒼翎鎮邪敕符",
+        "description": "依元素精通提高戰技和爆發傷害。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://genshin-center.com/zh-Hant/characters/lanyan",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

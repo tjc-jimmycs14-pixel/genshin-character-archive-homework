@@ -5,26 +5,38 @@
   "weapon": "Sword",
   "rarity": 4,
   "region": "蒙德",
-  "description": "",
+  "description": "蒙德冒險家，元素爆發能提供強力治療與攻擊力增益。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以單手劍進行連續普通攻擊，可使用重擊與下落攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "熱情過載",
+      "description": "揮劍造成火元素傷害；蓄力可打出多段火元素攻擊，但可能擊飛自己。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "美妙旅程",
+      "description": "展開鼓舞領域，依場上角色生命值提供治療或攻擊力加成。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "熱情復燃",
+        "description": "縮短元素戰技冷卻時間。",
+        "icon": ""
+      },
+      {
+        "name": "無畏的熱血",
+        "description": "在元素爆發領域內使用戰技時，降低冷卻時間並避免被擊飛。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

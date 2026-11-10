@@ -5,26 +5,38 @@
   "weapon": "Sword",
   "rarity": 5,
   "region": "楓丹",
-  "description": "",
+  "description": "楓丹決鬥代理人，以生命之契與雷元素槍劍連擊作戰。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以單手劍進行連續普通攻擊，可使用重擊與下落攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "狩夜之巡禮",
+      "description": "進入夜巡狀態，使用火槍進行雷元素射擊，並能以突刺消耗生命之契、回復生命值。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "殘光將終",
+      "description": "獲得生命之契並以雷元素範圍攻擊前方敵人。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "破夜的明焰",
+        "description": "隊伍觸發雷元素相關反應時，可提高克洛琳德的普通攻擊與爆發傷害。",
+        "icon": ""
+      },
+      {
+        "name": "契令的酬償",
+        "description": "生命之契達到一定程度時，提高暴擊率。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

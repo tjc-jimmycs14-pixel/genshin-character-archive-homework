@@ -5,26 +5,38 @@
   "weapon": "Bow",
   "rarity": 4,
   "region": "",
-  "description": "",
+  "description": "冒險家協會的斷罪皇女，透過奧茲提供後台雷元素傷害。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以弓箭進行普通攻擊；可蓄力瞄準，發射帶有元素傷害的箭矢。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "夜巡影翼",
+      "description": "召喚奧茲持續攻擊附近敵人，造成雷元素傷害。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "至夜幻現",
+      "description": "化為奧茲快速移動並攻擊沿途敵人，結束後奧茲繼續駐場。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "噬星魔鴉",
+        "description": "瞄準射擊命中奧茲時，觸發額外雷元素傷害。",
+        "icon": ""
+      },
+      {
+        "name": "斷罪雷影",
+        "description": "場上角色觸發雷元素相關反應時，奧茲可追加雷元素攻擊。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

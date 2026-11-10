@@ -5,26 +5,38 @@
   "weapon": "Catalyst",
   "rarity": 5,
   "region": "",
-  "description": "",
+  "description": "月之少女，以水元素與多種月曜反應支援隊伍。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "月露潑降",
+      "description": "施展水元素連續攻擊，特殊重擊會消耗草露造成月綻放傷害。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "萬古潮汐",
+      "description": "釋放月海潮汐並召喚跟隨角色的引力漣漪，持續造成水元素傷害並累積引力值。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "她的鄉愁",
+      "description": "短暫改變附近環境為月之領域，造成水元素範圍傷害並支援月曜反應。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "月亮誘發的瘋狂",
+        "description": "觸發引力干涉後提高自身暴擊率。",
+        "icon": ""
+      },
+      {
+        "name": "新月自己的法則",
+        "description": "月之領域中觸發月曜反應時，有機會追加各類反應效果。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://genshin-center.com/zh-Hant/characters/columbina",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

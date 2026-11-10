@@ -5,26 +5,38 @@
   "weapon": "Claymore",
   "rarity": 5,
   "region": "",
-  "description": "",
+  "description": "須彌沙漠的傭兵，以火元素領域分擔隊友受到的傷害。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以雙手劍進行連續揮砍，可進行重擊與下落攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "熔鐵流獄",
+      "description": "設置淨焰劍獄領域，持續造成協同火元素攻擊並為隊友分擔傷害。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "炎嘯獅子咬",
+      "description": "進入熾焰獅子狀態，施展連續火元素拳擊並在結束時施放踢擊。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "不吝佑助",
+        "description": "重新配置淨焰劍獄領域時短暫提高減傷能力。",
+        "icon": ""
+      },
+      {
+        "name": "崇誠之真",
+        "description": "自身生命值降低後可定期自動恢復生命值。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

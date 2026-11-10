@@ -5,26 +5,38 @@
   "weapon": "Claymore",
   "rarity": 5,
   "region": "稻妻",
-  "description": "",
+  "description": "荒瀧派老大，以防禦力轉化和岩元素重擊輸出。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以雙手劍進行連續揮砍，可進行重擊與下落攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "魔殺絕技·赤牛發破！",
+      "description": "投出赤牛阿丑，嘲諷敵人並造成岩元素傷害；命中可獲得亂神之怪力。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "最惡鬼王·一斗轟臨！！",
+      "description": "進入怒目鬼王狀態，將攻擊轉為岩元素，依防禦力提高攻擊並強化特殊重擊。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "荒瀧第一",
+        "description": "連續荒瀧逆袈裟重擊時，提高重擊速度並增強抗打斷。",
+        "icon": ""
+      },
+      {
+        "name": "赤鬼之血",
+        "description": "依防禦力提高荒瀧逆袈裟的傷害。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

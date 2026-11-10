@@ -5,26 +5,33 @@
   "weapon": "Sword",
   "rarity": 5,
   "region": "",
-  "description": "",
+  "description": "璃月傳說中的白馬仙人，以岩元素與月結晶傷害為特色。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "金鋏點桂",
+      "description": "以單手劍進行連續攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "天地忽然身",
+      "description": "切換月轉時隙模式，使普通攻擊造成岩元素傷害並累積時隙浮光。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "三垣威儀法",
+      "description": "施展兩段岩元素攻擊，其中一段會被視為月結晶反應傷害。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "月結晶戰法（摘要）",
+        "description": "強化狀態中的特殊攻擊與月結晶反應相互配合。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://genshin-center.com/zh-Hant/characters/zibai",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

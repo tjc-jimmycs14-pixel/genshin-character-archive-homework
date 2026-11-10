@@ -5,26 +5,38 @@
   "weapon": "Catalyst",
   "rarity": 5,
   "region": "楓丹",
-  "description": "",
+  "description": "梅洛彼得堡公爵，以冰元素拳擊與生命值變動輸出。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以法器發動對應元素的普通攻擊與重擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "冰寒劫罰",
+      "description": "進入寒烈的懲裁狀態，消耗生命值強化冰元素普通攻擊。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "黑金狼噬",
+      "description": "向前釋放冰元素拳擊造成範圍傷害。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "終有日月之明",
+        "description": "滿足生命值條件時，獲得不耗體力且傷害更高的特殊重擊。",
+        "icon": ""
+      },
+      {
+        "name": "罪業終有報償",
+        "description": "生命值變化可提高攻擊力。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

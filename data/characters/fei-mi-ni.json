@@ -5,26 +5,38 @@
   "weapon": "Claymore",
   "rarity": 4,
   "region": "楓丹",
-  "description": "",
+  "description": "楓丹潛水員，結合冰元素與物理傷害作戰。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以雙手劍進行連續揮砍，可進行重擊與下落攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "浮冰增壓",
+      "description": "使用佩伊進行冰元素攻擊，並累積壓力階段，以物理或冰元素傷害結束戰技。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "潛獵模式",
+      "description": "進入潛獵狀態強化戰技，增加抗打斷能力並能持續提升佩伊的攻擊頻率。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "並流式冷凝機關",
+        "description": "觸發碎冰反應時可提高戰技傷害。",
+        "icon": ""
+      },
+      {
+        "name": "深水引航",
+        "description": "提高隊伍角色在水下移動的速度。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

@@ -5,26 +5,43 @@
   "weapon": "Bow",
   "rarity": 4,
   "region": "蒙德",
-  "description": "",
+  "description": "蒙德西風騎士團的偵察騎士，擅長瞄準射擊與兔兔伯爵誘敵。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "神射手",
+      "description": "普通攻擊射出連續箭矢；蓄力瞄準可射出附帶火元素的箭矢。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "爆彈玩偶",
+      "description": "投擲兔兔伯爵吸引敵人攻擊，玩偶在時間結束或遭破壞時爆炸，造成火元素範圍傷害。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "箭雨",
+      "description": "在指定區域降下火焰箭雨，持續造成火元素傷害。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "百發百中！",
+        "description": "提高元素爆發的暴擊率與影響範圍。",
+        "icon": ""
+      },
+      {
+        "name": "壓制射擊",
+        "description": "瞄準射擊命中敵人弱點時，短暫提升自身攻擊力。",
+        "icon": ""
+      },
+      {
+        "name": "飛行冠軍",
+        "description": "降低隊伍成員滑翔時消耗的體力。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

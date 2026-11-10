@@ -5,26 +5,38 @@
   "weapon": "Catalyst",
   "rarity": 5,
   "region": "璃月",
-  "description": "",
+  "description": "不卜廬醫師，以草元素護盾、治療與反應增益支援隊伍。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以法器發動對應元素的普通攻擊與重擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "太素診要",
+      "description": "放出遊絲徵靈追蹤敵人造成草元素傷害，返回時治療全隊。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "癒氣全形論",
+      "description": "製造定期刷新的無郤氣護盾，護盾更新或破裂時治療場上角色並攻擊敵人。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "五運終天",
+        "description": "依場上角色生命值狀態提高白朮的治療或草元素傷害。",
+        "icon": ""
+      },
+      {
+        "name": "在地為化",
+        "description": "依生命值上限提高被治療角色觸發部分草元素反應的傷害。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }

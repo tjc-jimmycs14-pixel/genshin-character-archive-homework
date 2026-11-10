@@ -5,26 +5,38 @@
   "weapon": "Sword",
   "rarity": 4,
   "region": "",
-  "description": "",
+  "description": "須彌學院學生，擅長施放冰元素護盾與定時追蹤彈。",
   "portrait": "",
   "talents": {
     "normalAttack": {
-      "name": "",
-      "description": "",
+      "name": "普通攻擊",
+      "description": "以單手劍進行連續普通攻擊，可使用重擊與下落攻擊。",
       "icon": ""
     },
     "elementalSkill": {
-      "name": "",
-      "description": "",
+      "name": "垂裳端凝之夜",
+      "description": "展開冰元素護盾，持續產生晚星；晚星累積後自動發射冰元素追蹤彈。",
       "icon": ""
     },
     "elementalBurst": {
-      "name": "",
-      "description": "",
+      "name": "星流搖床之夢",
+      "description": "展開夢境領域，在範圍內定期發射冰元素星光彈。",
       "icon": ""
     },
-    "passiveTalents": []
+    "passiveTalents": [
+      {
+        "name": "如光驟現",
+        "description": "晚星數量增加時，提高護盾強效。",
+        "icon": ""
+      },
+      {
+        "name": "勿擾沉眠",
+        "description": "依生命值上限提高飛星傷害。",
+        "icon": ""
+      }
+    ]
   },
-  "reviewStatus": "pending",
-  "source": "https://myaline.top/tw/tools/genshin/codex"
+  "reviewStatus": "reviewed",
+  "source": "https://wiki.hoyolab.com/pc/genshin/aggregate/character?lang=zh-tw",
+  "summaryNote": "技能採繁體中文簡述；非遊戲內逐字全文，部分天賦名稱仍待逐項核對。"
 }
