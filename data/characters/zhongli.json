@@ -1,0 +1,46 @@
+{
+  "id": "zhongli",
+  "name": "鍾離",
+  "element": "Geo",
+  "weapon": "Polearm",
+  "rarity": 5,
+  "region": "璃月",
+  "description": "璃月的岩元素長柄武器角色，能召喚岩脊、提供「玉璋護盾」，並以天星造成岩元素範圍傷害。",
+  "portrait": "assets/characters/placeholder-zhongli.svg",
+  "talents": {
+    "normalAttack": {
+      "name": "岩雨",
+      "description": "普通攻擊最多進行六段連續槍擊；重擊向前方疾行，並沿路落下岩槍。",
+      "icon": ""
+    },
+    "elementalSkill": {
+      "name": "地心",
+      "description": "點按可創造「岩脊」，造成岩元素範圍傷害；長按可展開「玉璋護盾」，吸收傷害並降低附近敵人的元素與物理抗性。",
+      "icon": ""
+    },
+    "elementalBurst": {
+      "name": "天星",
+      "description": "降下巨大星岩，對範圍內敵人造成岩元素傷害，並使受影響的敵人進入「石化」狀態。",
+      "icon": ""
+    },
+    "passiveTalents": [
+      {
+        "name": "懸岩宸斷",
+        "description": "「玉璋護盾」受到傷害時，可使護盾強效在一定次數內提高。",
+        "icon": ""
+      },
+      {
+        "name": "炊金饌玉",
+        "description": "鍾離的部分攻擊傷害會根據生命值上限獲得額外提升。",
+        "icon": ""
+      },
+      {
+        "name": "晶石命理",
+        "description": "鍛造長柄武器時，返還部分消耗的礦石。",
+        "icon": ""
+      }
+    ]
+  },
+  "reviewStatus": "reviewed",
+  "source": "https://genshin-impact.fandom.com/zh/wiki/鍾離"
+}

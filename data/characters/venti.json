@@ -1,0 +1,46 @@
+{
+  "id": "venti",
+  "name": "溫迪",
+  "element": "Anemo",
+  "weapon": "Bow",
+  "rarity": 5,
+  "region": "蒙德",
+  "description": "蒙德的吟遊詩人，善於使用風元素將敵人聚集，並協助探索與隊伍循環。",
+  "portrait": "",
+  "talents": {
+    "normalAttack": {
+      "name": "神代射術",
+      "description": "以弓進行連續射擊與蓄力瞄準射擊。",
+      "icon": ""
+    },
+    "elementalSkill": {
+      "name": "高天之歌",
+      "description": "喚出風域造成風元素範圍傷害並擊飛敵人；長按可製造更大的風域，讓溫迪飛升。",
+      "icon": ""
+    },
+    "elementalBurst": {
+      "name": "風神之詩",
+      "description": "創造持續吸引附近敵人的暴風之眼並造成風元素傷害；接觸水、火、冰、雷元素時可轉化並追加對應元素傷害。",
+      "icon": ""
+    },
+    "passiveTalents": [
+      {
+        "name": "緒風之擁",
+        "description": "長按高天之歌後可留下短暫的上升氣流。",
+        "icon": ""
+      },
+      {
+        "name": "暴風之眼",
+        "description": "元素爆發結束後恢復溫迪能量；若曾發生元素轉化，也能為對應元素的隊友回復能量。",
+        "icon": ""
+      },
+      {
+        "name": "恆風隨行",
+        "description": "降低隊伍角色滑翔時的體力消耗。",
+        "icon": ""
+      }
+    ]
+  },
+  "reviewStatus": "reviewed",
+  "source": "https://genshin-center.com/zh-Hant/characters/venti"
+}

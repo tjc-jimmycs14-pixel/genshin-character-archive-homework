@@ -1,0 +1,46 @@
+{
+  "id": "xingqiu",
+  "name": "行秋",
+  "element": "Hydro",
+  "weapon": "Sword",
+  "rarity": 4,
+  "region": "璃月",
+  "description": "飛雲商會的二少爺，擅長以雨簾劍降低承受傷害，並在後台發動水元素連攜攻擊。",
+  "portrait": "",
+  "talents": {
+    "normalAttack": {
+      "name": "古華劍法",
+      "description": "使用單手劍連續攻擊，重擊可快速揮出兩劍。",
+      "icon": ""
+    },
+    "elementalSkill": {
+      "name": "古華劍·畫雨籠山",
+      "description": "施展兩段水元素劍技，同時生成圍繞隊友的雨簾劍，提供減傷與抗打斷效果。",
+      "icon": ""
+    },
+    "elementalBurst": {
+      "name": "古華劍·裁雨留虹",
+      "description": "展開虹劍勢，場上角色進行普通攻擊時可觸發水元素劍雨協同攻擊。",
+      "icon": ""
+    },
+    "passiveTalents": [
+      {
+        "name": "生水要訣",
+        "description": "雨簾劍破碎或消失時可治療場上角色。",
+        "icon": ""
+      },
+      {
+        "name": "虛實工筆",
+        "description": "提高行秋自身的水元素傷害加成。",
+        "icon": ""
+      },
+      {
+        "name": "靈光乍現",
+        "description": "合成角色天賦素材時有機會返還材料。",
+        "icon": ""
+      }
+    ]
+  },
+  "reviewStatus": "reviewed",
+  "source": "https://genshin-center.com/zh-Hant/characters/xingqiu"
+}

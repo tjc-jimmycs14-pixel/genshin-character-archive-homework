@@ -1,0 +1,30 @@
+{
+  "id": "a-luo-xia",
+  "name": "阿羅夏",
+  "element": "Electro",
+  "weapon": "Polearm",
+  "rarity": 4,
+  "region": "",
+  "description": "",
+  "portrait": "",
+  "talents": {
+    "normalAttack": {
+      "name": "",
+      "description": "",
+      "icon": ""
+    },
+    "elementalSkill": {
+      "name": "",
+      "description": "",
+      "icon": ""
+    },
+    "elementalBurst": {
+      "name": "",
+      "description": "",
+      "icon": ""
+    },
+    "passiveTalents": []
+  },
+  "reviewStatus": "pending",
+  "source": "https://myaline.top/tw/tools/genshin/codex"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "fei-mi-ni",
+  "name": "菲米尼",
+  "element": "Cryo",
+  "weapon": "Claymore",
+  "rarity": 4,
+  "region": "楓丹",
+  "description": "",
+  "portrait": "",
+  "talents": {
+    "normalAttack": {
+      "name": "",
+      "description": "",
+      "icon": ""
+    },
+    "elementalSkill": {
+      "name": "",
+      "description": "",
+      "icon": ""
+    },
+    "elementalBurst": {
+      "name": "",
+      "description": "",
+      "icon": ""
+    },
+    "passiveTalents": []
+  },
+  "reviewStatus": "pending",
+  "source": "https://myaline.top/tw/tools/genshin/codex"
+}

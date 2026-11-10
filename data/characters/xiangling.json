@@ -1,0 +1,46 @@
+{
+  "id": "xiangling",
+  "name": "香菱",
+  "element": "Pyro",
+  "weapon": "Polearm",
+  "rarity": 4,
+  "region": "璃月",
+  "description": "萬民堂的年輕廚師。可透過鍋巴與旋火輪持續造成火元素傷害。",
+  "portrait": "",
+  "talents": {
+    "normalAttack": {
+      "name": "白案功夫",
+      "description": "使用長槍連續進攻。",
+      "icon": ""
+    },
+    "elementalSkill": {
+      "name": "鍋巴出擊",
+      "description": "召喚鍋巴，間歇向前噴出火焰，對敵人造成火元素傷害。",
+      "icon": ""
+    },
+    "elementalBurst": {
+      "name": "旋火輪",
+      "description": "釋放隨場上角色移動的旋轉火輪，持續對接觸的敵人造成火元素傷害。",
+      "icon": ""
+    },
+    "passiveTalents": [
+      {
+        "name": "交叉火力",
+        "description": "增加鍋巴噴火的攻擊距離。",
+        "icon": ""
+      },
+      {
+        "name": "絕雲朝天椒",
+        "description": "鍋巴消失後留下辣椒，拾取者可暫時提高攻擊力。",
+        "icon": ""
+      },
+      {
+        "name": "萬民堂大廚",
+        "description": "完美烹飪攻擊類食物時，有機會獲得額外產物。",
+        "icon": ""
+      }
+    ]
+  },
+  "reviewStatus": "reviewed",
+  "source": "https://genshin-center.com/zh-Hant/characters/xiangling"
+}

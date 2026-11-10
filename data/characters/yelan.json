@@ -1,0 +1,46 @@
+{
+  "id": "yelan",
+  "name": "夜蘭",
+  "element": "Hydro",
+  "weapon": "Bow",
+  "rarity": 5,
+  "region": "璃月",
+  "description": "擅長情報蒐集的水元素弓箭角色，可藉由疾走標記敵人，並從後台發起協同攻擊。",
+  "portrait": "",
+  "talents": {
+    "normalAttack": {
+      "name": "潛形隱曜弓",
+      "description": "以弓連續射擊；特定條件下可使用強化蓄力箭「破局矢」。",
+      "icon": ""
+    },
+    "elementalSkill": {
+      "name": "縈絡縱命索",
+      "description": "疾走並使用絡命絲標記經過的敵人，結束時引爆標記造成水元素傷害。",
+      "icon": ""
+    },
+    "elementalBurst": {
+      "name": "淵圖玲瓏骰",
+      "description": "造成水元素範圍傷害，並召喚「玄擲玲瓏」，隨場上角色的普通攻擊發動水元素協同攻擊。",
+      "icon": ""
+    },
+    "passiveTalents": [
+      {
+        "name": "猜先有方",
+        "description": "依隊伍中不同元素類型的數量提升夜蘭生命值上限。",
+        "icon": ""
+      },
+      {
+        "name": "妙轉隨心",
+        "description": "元素爆發召喚物持續期間，逐步提高場上角色造成的傷害。",
+        "icon": ""
+      },
+      {
+        "name": "長考一著",
+        "description": "完成璃月長時間探索派遣時可獲得更多獎勵。",
+        "icon": ""
+      }
+    ]
+  },
+  "reviewStatus": "reviewed",
+  "source": "https://genshin-center.com/zh-Hant/characters/yelan"
+}

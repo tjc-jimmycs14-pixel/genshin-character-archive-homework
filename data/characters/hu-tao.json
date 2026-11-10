@@ -1,0 +1,46 @@
+{
+  "id": "hu-tao",
+  "name": "胡桃",
+  "element": "Pyro",
+  "weapon": "Polearm",
+  "rarity": 5,
+  "region": "璃月",
+  "description": "往生堂第七十七代堂主。以消耗生命值換取火元素輸出，擅長在低生命值時施展重擊與爆發。",
+  "portrait": "",
+  "talents": {
+    "normalAttack": {
+      "name": "往生秘傳槍法",
+      "description": "以長槍連續攻擊，重擊可向前穿刺。",
+      "icon": ""
+    },
+    "elementalSkill": {
+      "name": "蝶引來生",
+      "description": "消耗部分生命值進入「彼岸蝶舞」，提升攻擊力並使普通攻擊與重擊轉為火元素傷害；重擊可留下「血梅香」持續造成火元素傷害。",
+      "icon": ""
+    },
+    "elementalBurst": {
+      "name": "安神秘法",
+      "description": "對周圍敵人造成大範圍火元素傷害，命中時可恢復胡桃生命值；生命值較低時有更高傷害與治療量。",
+      "icon": ""
+    },
+    "passiveTalents": [
+      {
+        "name": "蝶隱之時",
+        "description": "彼岸蝶舞結束後，提高其他隊友的暴擊率。",
+        "icon": ""
+      },
+      {
+        "name": "血之灶火",
+        "description": "胡桃的生命值不高於一半時，獲得火元素傷害加成。",
+        "icon": ""
+      },
+      {
+        "name": "多多益善",
+        "description": "完美烹飪時有機會額外獲得特殊品質的同種料理。",
+        "icon": ""
+      }
+    ]
+  },
+  "reviewStatus": "reviewed",
+  "source": "https://genshin-center.com/zh-Hant/characters/hutao"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "kuki-shinobu",
+  "name": "久岐忍",
+  "element": "Electro",
+  "weapon": "Sword",
+  "rarity": 4,
+  "region": "稻妻",
+  "description": "",
+  "portrait": "",
+  "talents": {
+    "normalAttack": {
+      "name": "",
+      "description": "",
+      "icon": ""
+    },
+    "elementalSkill": {
+      "name": "",
+      "description": "",
+      "icon": ""
+    },
+    "elementalBurst": {
+      "name": "",
+      "description": "",
+      "icon": ""
+    },
+    "passiveTalents": []
+  },
+  "reviewStatus": "pending",
+  "source": "https://myaline.top/tw/tools/genshin/codex"
+}

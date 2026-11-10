@@ -1,0 +1,30 @@
+{
+  "id": "xia-luo-di",
+  "name": "夏洛蒂",
+  "element": "Cryo",
+  "weapon": "Catalyst",
+  "rarity": 4,
+  "region": "楓丹",
+  "description": "",
+  "portrait": "",
+  "talents": {
+    "normalAttack": {
+      "name": "",
+      "description": "",
+      "icon": ""
+    },
+    "elementalSkill": {
+      "name": "",
+      "description": "",
+      "icon": ""
+    },
+    "elementalBurst": {
+      "name": "",
+      "description": "",
+      "icon": ""
+    },
+    "passiveTalents": []
+  },
+  "reviewStatus": "pending",
+  "source": "https://myaline.top/tw/tools/genshin/codex"
+}

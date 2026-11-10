@@ -1,0 +1,30 @@
+{
+  "id": "yaoyao",
+  "name": "瑤瑤",
+  "element": "Dendro",
+  "weapon": "Polearm",
+  "rarity": 4,
+  "region": "璃月",
+  "description": "",
+  "portrait": "",
+  "talents": {
+    "normalAttack": {
+      "name": "",
+      "description": "",
+      "icon": ""
+    },
+    "elementalSkill": {
+      "name": "",
+      "description": "",
+      "icon": ""
+    },
+    "elementalBurst": {
+      "name": "",
+      "description": "",
+      "icon": ""
+    },
+    "passiveTalents": []
+  },
+  "reviewStatus": "pending",
+  "source": "https://myaline.top/tw/tools/genshin/codex"
+}

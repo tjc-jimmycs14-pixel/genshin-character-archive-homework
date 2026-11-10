@@ -1,0 +1,30 @@
+{
+  "id": "ji-ni-qi",
+  "name": "基尼奇",
+  "element": "Dendro",
+  "weapon": "Claymore",
+  "rarity": 5,
+  "region": "納塔",
+  "description": "",
+  "portrait": "",
+  "talents": {
+    "normalAttack": {
+      "name": "",
+      "description": "",
+      "icon": ""
+    },
+    "elementalSkill": {
+      "name": "",
+      "description": "",
+      "icon": ""
+    },
+    "elementalBurst": {
+      "name": "",
+      "description": "",
+      "icon": ""
+    },
+    "passiveTalents": []
+  },
+  "reviewStatus": "pending",
+  "source": "https://myaline.top/tw/tools/genshin/codex"
+}

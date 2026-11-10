@@ -1,0 +1,46 @@
+{
+  "id": "furina",
+  "name": "芙寧娜",
+  "element": "Hydro",
+  "weapon": "Sword",
+  "rarity": 5,
+  "region": "楓丹",
+  "description": "楓丹出身的水元素單手劍角色，以召喚物、治療與全隊增益為特色。",
+  "portrait": "assets/characters/placeholder-furina.svg",
+  "talents": {
+    "normalAttack": {
+      "name": "獨舞之邀",
+      "description": "普通攻擊進行至多四段連擊；重擊會造成物理傷害，並切換自身的始基力屬性。",
+      "icon": ""
+    },
+    "elementalSkill": {
+      "name": "孤心沙龍",
+      "description": "根據當前始基力屬性召喚不同夥伴：荒性召喚三位「沙龍成員」，間歇攻擊附近敵人；芒性召喚「眾水的歌者」，為場上角色恢復生命值。",
+      "icon": ""
+    },
+    "elementalBurst": {
+      "name": "萬眾狂歡",
+      "description": "造成水元素範圍傷害，並讓隊伍進入「普世歡騰」狀態。期間隊友生命值增加或減少都可累積「氣氛值」，進而提高隊伍造成的傷害與受治療加成。",
+      "icon": ""
+    },
+    "passiveTalents": [
+      {
+        "name": "停不了的圓舞",
+        "description": "場上角色接受非芙寧娜來源的溢出治療時，芙寧娜會在短時間內替附近的隊伍角色恢復生命值。",
+        "icon": ""
+      },
+      {
+        "name": "無人聽的自白",
+        "description": "依芙寧娜的生命值上限，提升「沙龍成員」傷害，或縮短「眾水的歌者」的治療間隔。",
+        "icon": ""
+      },
+      {
+        "name": "瀚海亦舞臺",
+        "description": "縮短異色原海異種能力的冷卻時間。",
+        "icon": ""
+      }
+    ]
+  },
+  "reviewStatus": "reviewed",
+  "source": "https://genshin-center.com/zh-Hant/characters/furina"
+}

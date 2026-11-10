@@ -1,0 +1,30 @@
+{
+  "id": "jia-ming",
+  "name": "嘉明",
+  "element": "Pyro",
+  "weapon": "Claymore",
+  "rarity": 4,
+  "region": "璃月",
+  "description": "",
+  "portrait": "",
+  "talents": {
+    "normalAttack": {
+      "name": "",
+      "description": "",
+      "icon": ""
+    },
+    "elementalSkill": {
+      "name": "",
+      "description": "",
+      "icon": ""
+    },
+    "elementalBurst": {
+      "name": "",
+      "description": "",
+      "icon": ""
+    },
+    "passiveTalents": []
+  },
+  "reviewStatus": "pending",
+  "source": "https://myaline.top/tw/tools/genshin/codex"
+}

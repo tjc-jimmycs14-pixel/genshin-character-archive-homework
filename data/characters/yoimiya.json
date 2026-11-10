@@ -1,0 +1,46 @@
+{
+  "id": "yoimiya",
+  "name": "宵宮",
+  "element": "Pyro",
+  "weapon": "Bow",
+  "rarity": 5,
+  "region": "稻妻",
+  "description": "長野原煙火店的煙火工匠。以火元素強化的連續普通攻擊為主要輸出手段。",
+  "portrait": "",
+  "talents": {
+    "normalAttack": {
+      "name": "煙火打揚",
+      "description": "使用弓進行最多五段射擊；蓄力瞄準時可發射額外追蹤用的焰硝矢。",
+      "icon": ""
+    },
+    "elementalSkill": {
+      "name": "焰硝庭火舞",
+      "description": "啟動庭火焰硝，讓普通攻擊射出的箭矢轉化為更強的火元素箭矢；切換角色後效果消失。",
+      "icon": ""
+    },
+    "elementalBurst": {
+      "name": "琉金雲間草",
+      "description": "向敵人施放煙火，造成火元素範圍傷害並標記一名敵人；隊友攻擊標記對象時可觸發後續爆炸。",
+      "icon": ""
+    },
+    "passiveTalents": [
+      {
+        "name": "袖火百景圖",
+        "description": "元素戰技期間的普通攻擊命中可疊加宵宮的火元素傷害加成。",
+        "icon": ""
+      },
+      {
+        "name": "炎晝風物詩",
+        "description": "施放元素爆發後，讓其他隊友獲得攻擊力加成。",
+        "icon": ""
+      },
+      {
+        "name": "炎色配比法",
+        "description": "製作部分塵歌壺擺設時有機會返還材料。",
+        "icon": ""
+      }
+    ]
+  },
+  "reviewStatus": "reviewed",
+  "source": "https://genshin-center.com/zh-Hant/characters/yoimiya"
+}
