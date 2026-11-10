@@ -1,0 +1,1222 @@
+[
+  {
+    "id": "yelan",
+    "name": "夜蘭",
+    "element": "Hydro",
+    "weapon": "Bow",
+    "rarity": 5,
+    "region": "璃月",
+    "portrait": "",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "yoimiya",
+    "name": "宵宮",
+    "element": "Pyro",
+    "weapon": "Bow",
+    "rarity": 5,
+    "region": "稻妻",
+    "portrait": "",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "kaedehara-kazuha",
+    "name": "楓原萬葉",
+    "element": "Anemo",
+    "weapon": "Sword",
+    "rarity": 5,
+    "region": "稻妻",
+    "portrait": "assets/characters/placeholder-kaedehara-kazuha.svg",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "venti",
+    "name": "溫迪",
+    "element": "Anemo",
+    "weapon": "Bow",
+    "rarity": 5,
+    "region": "蒙德",
+    "portrait": "",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "kamisato-ayaka",
+    "name": "神里綾華",
+    "element": "Cryo",
+    "weapon": "Sword",
+    "rarity": 5,
+    "region": "稻妻",
+    "portrait": "assets/characters/placeholder-kamisato-ayaka.svg",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nahida",
+    "name": "納西妲",
+    "element": "Dendro",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "region": "須彌",
+    "portrait": "assets/characters/placeholder-nahida.svg",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "hu-tao",
+    "name": "胡桃",
+    "element": "Pyro",
+    "weapon": "Polearm",
+    "rarity": 5,
+    "region": "璃月",
+    "portrait": "",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "furina",
+    "name": "芙寧娜",
+    "element": "Hydro",
+    "weapon": "Sword",
+    "rarity": 5,
+    "region": "楓丹",
+    "portrait": "assets/characters/placeholder-furina.svg",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "xingqiu",
+    "name": "行秋",
+    "element": "Hydro",
+    "weapon": "Sword",
+    "rarity": 4,
+    "region": "璃月",
+    "portrait": "",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "neuvillette",
+    "name": "那維萊特",
+    "element": "Hydro",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "region": "楓丹",
+    "portrait": "assets/characters/placeholder-neuvillette.svg",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "zhongli",
+    "name": "鍾離",
+    "element": "Geo",
+    "weapon": "Polearm",
+    "rarity": 5,
+    "region": "璃月",
+    "portrait": "assets/characters/placeholder-zhongli.svg",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "arlecchino",
+    "name": "阿蕾奇諾",
+    "element": "Pyro",
+    "weapon": "Polearm",
+    "rarity": 5,
+    "region": "楓丹",
+    "portrait": "assets/characters/placeholder-arlecchino.svg",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "raiden-shogun",
+    "name": "雷電將軍",
+    "element": "Electro",
+    "weapon": "Polearm",
+    "rarity": 5,
+    "region": "稻妻",
+    "portrait": "assets/characters/placeholder-raiden-shogun.svg",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "xiangling",
+    "name": "香菱",
+    "element": "Pyro",
+    "weapon": "Polearm",
+    "rarity": 4,
+    "region": "璃月",
+    "portrait": "",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "qiqi",
+    "name": "七七",
+    "element": "Cryo",
+    "weapon": "Sword",
+    "rarity": 5,
+    "region": "璃月",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "kuki-shinobu",
+    "name": "久岐忍",
+    "element": "Electro",
+    "weapon": "Sword",
+    "rarity": 4,
+    "region": "稻妻",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "jiu-tiao-sha-luo",
+    "name": "九條裟羅",
+    "element": "Electro",
+    "weapon": "Bow",
+    "rarity": 4,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "wu-lang",
+    "name": "五郎",
+    "element": "Geo",
+    "weapon": "Bow",
+    "rarity": 4,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "ya-luo-yi",
+    "name": "亞蘿伊",
+    "element": "Cryo",
+    "weapon": "Bow",
+    "rarity": 5,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "yi-an-shan",
+    "name": "伊安珊",
+    "element": "Electro",
+    "weapon": "Polearm",
+    "rarity": 4,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "yi-fa",
+    "name": "伊法",
+    "element": "Anemo",
+    "weapon": "Catalyst",
+    "rarity": 4,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "yi-nie-fu",
+    "name": "伊涅芙",
+    "element": "Electro",
+    "weapon": "Polearm",
+    "rarity": 5,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "eula",
+    "name": "優菈",
+    "element": "Cryo",
+    "weapon": "Claymore",
+    "rarity": 5,
+    "region": "蒙德",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "ke-luo-lin-de",
+    "name": "克洛琳德",
+    "element": "Electro",
+    "weapon": "Sword",
+    "rarity": 5,
+    "region": "楓丹",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "yae-miko",
+    "name": "八重神子",
+    "element": "Electro",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "region": "稻妻",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "ningguang",
+    "name": "凝光",
+    "element": "Geo",
+    "weapon": "Catalyst",
+    "rarity": 4,
+    "region": "璃月",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "kai-ya",
+    "name": "凱亞",
+    "element": "Cryo",
+    "weapon": "Sword",
+    "rarity": 4,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "keqing",
+    "name": "刻晴",
+    "element": "Electro",
+    "weapon": "Sword",
+    "rarity": 5,
+    "region": "璃月",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "beidou",
+    "name": "北斗",
+    "element": "Electro",
+    "weapon": "Claymore",
+    "rarity": 4,
+    "region": "璃月",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "qian-zhi",
+    "name": "千織",
+    "element": "Geo",
+    "weapon": "Sword",
+    "rarity": 5,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "qia-wei",
+    "name": "卡維",
+    "element": "Dendro",
+    "weapon": "Claymore",
+    "rarity": 4,
+    "region": "須彌",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "qia-qi-nuo",
+    "name": "卡齊娜",
+    "element": "Geo",
+    "weapon": "Polearm",
+    "rarity": 4,
+    "region": "納塔",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "klee",
+    "name": "可莉",
+    "element": "Pyro",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "region": "蒙德",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "ge-lun-bi-ya",
+    "name": "哥倫比婭",
+    "element": "Hydro",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "jia-ming",
+    "name": "嘉明",
+    "element": "Pyro",
+    "weapon": "Claymore",
+    "rarity": 4,
+    "region": "璃月",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "kan-di-si",
+    "name": "坎蒂絲",
+    "element": "Hydro",
+    "weapon": "Polearm",
+    "rarity": 4,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "ji-ni-qi",
+    "name": "基尼奇",
+    "element": "Dendro",
+    "weapon": "Claymore",
+    "rarity": 5,
+    "region": "納塔",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "ta-li-ya",
+    "name": "塔利雅",
+    "element": "Hydro",
+    "weapon": "Sword",
+    "rarity": 4,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "xia-wo-lei",
+    "name": "夏沃蕾",
+    "element": "Pyro",
+    "weapon": "Polearm",
+    "rarity": 4,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "xia-luo-di",
+    "name": "夏洛蒂",
+    "element": "Cryo",
+    "weapon": "Catalyst",
+    "rarity": 4,
+    "region": "楓丹",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "duo-li",
+    "name": "多莉",
+    "element": "Electro",
+    "weapon": "Claymore",
+    "rarity": 4,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "meng-jian-yue-rui-xi",
+    "name": "夢見月瑞希",
+    "element": "Anemo",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "nai-fu-er",
+    "name": "奈芙爾",
+    "element": "Dendro",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "ao-dai-ta",
+    "name": "奧黛塔",
+    "element": "Cryo",
+    "weapon": "Sword",
+    "rarity": 5,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "nilou",
+    "name": "妮露",
+    "element": "Hydro",
+    "weapon": "Sword",
+    "rarity": 5,
+    "region": "須彌",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "navia",
+    "name": "娜維婭",
+    "element": "Geo",
+    "weapon": "Claymore",
+    "rarity": 5,
+    "region": "楓丹",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "amber",
+    "name": "安柏",
+    "element": "Pyro",
+    "weapon": "Bow",
+    "rarity": 4,
+    "region": "蒙德",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "ni-ke",
+    "name": "尼可",
+    "element": "Pyro",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "bu-lun-ni",
+    "name": "布倫妮",
+    "element": "Anemo",
+    "weapon": "Catalyst",
+    "rarity": 4,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "xi-ge-wen",
+    "name": "希格雯",
+    "element": "Hydro",
+    "weapon": "Bow",
+    "rarity": 5,
+    "region": "楓丹",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "xi-nuo-zhu",
+    "name": "希諾寧",
+    "element": "Geo",
+    "weapon": "Sword",
+    "rarity": 5,
+    "region": "納塔",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "qia-si-qia",
+    "name": "恰斯卡",
+    "element": "Anemo",
+    "weapon": "Bow",
+    "rarity": 5,
+    "region": "納塔",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "ai-ke-fei",
+    "name": "愛可菲",
+    "element": "Cryo",
+    "weapon": "Polearm",
+    "rarity": 5,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "ai-nuo",
+    "name": "愛諾",
+    "element": "Hydro",
+    "weapon": "Claymore",
+    "rarity": 4,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "tuo-ma",
+    "name": "托馬",
+    "element": "Pyro",
+    "weapon": "Polearm",
+    "rarity": 4,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "tighnari",
+    "name": "提納里",
+    "element": "Dendro",
+    "weapon": "Bow",
+    "rarity": 5,
+    "region": "須彌",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "sayu",
+    "name": "早柚",
+    "element": "Anemo",
+    "weapon": "Claymore",
+    "rarity": 4,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "du-lin",
+    "name": "杜林",
+    "element": "Pyro",
+    "weapon": "Sword",
+    "rarity": 5,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "lyney",
+    "name": "林尼",
+    "element": "Pyro",
+    "weapon": "Bow",
+    "rarity": 5,
+    "region": "楓丹",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "collei",
+    "name": "柯萊",
+    "element": "Dendro",
+    "weapon": "Bow",
+    "rarity": 4,
+    "region": "須彌",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "sang-duo-nie",
+    "name": "桑多涅",
+    "element": "Cryo",
+    "weapon": "Claymore",
+    "rarity": 5,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "ou-luo-lun",
+    "name": "歐洛倫",
+    "element": "Electro",
+    "weapon": "Bow",
+    "rarity": 4,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "wo-ya-ni-sha",
+    "name": "沃雅妮莎",
+    "element": "Hydro",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "fa-er-jia",
+    "name": "法爾伽",
+    "element": "Anemo",
+    "weapon": "Claymore",
+    "rarity": 5,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "luo-en",
+    "name": "洛恩",
+    "element": "Cryo",
+    "weapon": "Polearm",
+    "rarity": 5,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "wanderer",
+    "name": "流浪者",
+    "element": "Anemo",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "yan-fei",
+    "name": "煙緋",
+    "element": "Pyro",
+    "weapon": "Catalyst",
+    "rarity": 4,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "sangonomiya-kokomi",
+    "name": "珊瑚宮心海",
+    "element": "Hydro",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "region": "稻妻",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "bennett",
+    "name": "班尼特",
+    "element": "Pyro",
+    "weapon": "Sword",
+    "rarity": 4,
+    "region": "蒙德",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "lynette",
+    "name": "琳妮特",
+    "element": "Anemo",
+    "weapon": "Sword",
+    "rarity": 4,
+    "region": "楓丹",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "jean",
+    "name": "琴",
+    "element": "Anemo",
+    "weapon": "Sword",
+    "rarity": 5,
+    "region": "蒙德",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "fa-lu-shan",
+    "name": "琺露珊",
+    "element": "Anemo",
+    "weapon": "Bow",
+    "rarity": 4,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "yaoyao",
+    "name": "瑤瑤",
+    "element": "Dendro",
+    "weapon": "Polearm",
+    "rarity": 4,
+    "region": "璃月",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "ma-la-ni",
+    "name": "瑪拉妮",
+    "element": "Hydro",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "region": "納塔",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "mavuika",
+    "name": "瑪薇卡",
+    "element": "Pyro",
+    "weapon": "Claymore",
+    "rarity": 5,
+    "region": "納塔",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "valeri",
+    "name": "瓦列里",
+    "element": "Electro",
+    "weapon": "Sword",
+    "rarity": 4,
+    "region": "至冬",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "wa-lei-sha",
+    "name": "瓦雷莎",
+    "element": "Electro",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "ganyu",
+    "name": "甘雨",
+    "element": "Cryo",
+    "weapon": "Bow",
+    "rarity": 5,
+    "region": "璃月",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "shen-he",
+    "name": "申鶴",
+    "element": "Cryo",
+    "weapon": "Polearm",
+    "rarity": 5,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "baizhu",
+    "name": "白朮",
+    "element": "Dendro",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "region": "璃月",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "sucrose",
+    "name": "砂糖",
+    "element": "Anemo",
+    "weapon": "Catalyst",
+    "rarity": 4,
+    "region": "蒙德",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "kamisato-ayato",
+    "name": "神里綾人",
+    "element": "Hydro",
+    "weapon": "Sword",
+    "rarity": 5,
+    "region": "稻妻",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "mi-qia",
+    "name": "米卡",
+    "element": "Cryo",
+    "weapon": "Polearm",
+    "rarity": 4,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "mitiya",
+    "name": "米提亞",
+    "element": "Electro",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "region": "至冬",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "skirk",
+    "name": "絲柯克",
+    "element": "Cryo",
+    "weapon": "Sword",
+    "rarity": 5,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "qi-liang-liang",
+    "name": "綺良良",
+    "element": "Dendro",
+    "weapon": "Sword",
+    "rarity": 4,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "ai-mei-li-ai",
+    "name": "艾梅莉埃",
+    "element": "Dendro",
+    "weapon": "Polearm",
+    "rarity": 5,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "alhaitham",
+    "name": "艾爾海森",
+    "element": "Dendro",
+    "weapon": "Sword",
+    "rarity": 5,
+    "region": "須彌",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "barbara",
+    "name": "芭芭拉",
+    "element": "Hydro",
+    "weapon": "Catalyst",
+    "rarity": 4,
+    "region": "蒙德",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "qian-te-la-li",
+    "name": "茜特菈莉",
+    "element": "Cryo",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "region": "納塔",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "zi-bai",
+    "name": "茲白",
+    "element": "Geo",
+    "weapon": "Sword",
+    "rarity": 5,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "huang-long-yi-dou",
+    "name": "荒瀧一斗",
+    "element": "Geo",
+    "weapon": "Claymore",
+    "rarity": 5,
+    "region": "稻妻",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "li-nai-ya",
+    "name": "莉奈婭",
+    "element": "Geo",
+    "weapon": "Bow",
+    "rarity": 5,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "mona",
+    "name": "莫娜",
+    "element": "Hydro",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "region": "蒙德",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "la-wu-ma",
+    "name": "菈烏瑪",
+    "element": "Dendro",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "fei-lin-si",
+    "name": "菲林斯",
+    "element": "Electro",
+    "weapon": "Polearm",
+    "rarity": 5,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "fei-mi-ni",
+    "name": "菲米尼",
+    "element": "Cryo",
+    "weapon": "Claymore",
+    "rarity": 4,
+    "region": "楓丹",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "fischl",
+    "name": "菲謝爾",
+    "element": "Electro",
+    "weapon": "Bow",
+    "rarity": 4,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "lai-yi-la",
+    "name": "萊依拉",
+    "element": "Cryo",
+    "weapon": "Sword",
+    "rarity": 4,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "lai-ou-si-li",
+    "name": "萊歐斯利",
+    "element": "Cryo",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "region": "楓丹",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "xie-luo-ya",
+    "name": "葉洛亞",
+    "element": "Geo",
+    "weapon": "Polearm",
+    "rarity": 4,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "wei-si-na",
+    "name": "薇斯納",
+    "element": "Anemo",
+    "weapon": "Sword",
+    "rarity": 5,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "lan-yan",
+    "name": "藍硯",
+    "element": "Anemo",
+    "weapon": "Catalyst",
+    "rarity": 4,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "luo-sha-li-ya",
+    "name": "蘿莎莉亞",
+    "element": "Cryo",
+    "weapon": "Polearm",
+    "rarity": 4,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "noelle",
+    "name": "諾艾爾",
+    "element": "Geo",
+    "weapon": "Claymore",
+    "rarity": 4,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "sai-suo-si",
+    "name": "賽索斯",
+    "element": "Electro",
+    "weapon": "Bow",
+    "rarity": 4,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "sai-nuo",
+    "name": "賽諾",
+    "element": "Electro",
+    "weapon": "Polearm",
+    "rarity": 5,
+    "region": "須彌",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "xin-yan",
+    "name": "辛焱",
+    "element": "Pyro",
+    "weapon": "Claymore",
+    "rarity": 4,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "di-ao-nuo",
+    "name": "迪奧娜",
+    "element": "Cryo",
+    "weapon": "Bow",
+    "rarity": 4,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "dehya",
+    "name": "迪希雅",
+    "element": "Pyro",
+    "weapon": "Claymore",
+    "rarity": 5,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "diluc",
+    "name": "迪盧克",
+    "element": "Pyro",
+    "weapon": "Claymore",
+    "rarity": 5,
+    "region": "蒙德",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "tartaglia",
+    "name": "達達利亞",
+    "element": "Hydro",
+    "weapon": "Bow",
+    "rarity": 5,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "chongyun",
+    "name": "重雲",
+    "element": "Cryo",
+    "weapon": "Claymore",
+    "rarity": 4,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "xian-yun",
+    "name": "閒雲",
+    "element": "Anemo",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "region": "璃月",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "a-luo-xia",
+    "name": "阿羅夏",
+    "element": "Electro",
+    "weapon": "Polearm",
+    "rarity": 4,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "albedo",
+    "name": "阿貝多",
+    "element": "Geo",
+    "weapon": "Sword",
+    "rarity": 5,
+    "region": "蒙德",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "ya-ke-da",
+    "name": "雅珂達",
+    "element": "Anemo",
+    "weapon": "Bow",
+    "rarity": 4,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "yun-jin",
+    "name": "雲堇",
+    "element": "Geo",
+    "weapon": "Polearm",
+    "rarity": 4,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "razor",
+    "name": "雷澤",
+    "element": "Electro",
+    "weapon": "Claymore",
+    "rarity": 4,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "xiao",
+    "name": "魈",
+    "element": "Anemo",
+    "weapon": "Polearm",
+    "rarity": 5,
+    "region": "璃月",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "lu-ye-yuan-ping-cang",
+    "name": "鹿野院平藏",
+    "element": "Anemo",
+    "weapon": "Catalyst",
+    "rarity": 4,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "li-sha",
+    "name": "麗莎",
+    "element": "Electro",
+    "weapon": "Catalyst",
+    "rarity": 4,
+    "region": "",
+    "portrait": "",
+    "reviewStatus": "pending"
+  }
+]

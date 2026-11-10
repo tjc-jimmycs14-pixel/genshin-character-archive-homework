@@ -1,0 +1,46 @@
+{
+  "id": "raiden-shogun",
+  "name": "雷電將軍",
+  "element": "Electro",
+  "weapon": "Polearm",
+  "rarity": 5,
+  "region": "稻妻",
+  "description": "稻妻的雷元素長柄武器角色，可協助隊伍恢復元素能量，並以元素爆發進行雷元素輸出。",
+  "portrait": "assets/characters/placeholder-raiden-shogun.svg",
+  "talents": {
+    "normalAttack": {
+      "name": "源流",
+      "description": "普通攻擊進行至多五段槍擊；重擊消耗體力，施展向上的挑斬攻擊。",
+      "icon": ""
+    },
+    "elementalSkill": {
+      "name": "神變·惡曜開眼",
+      "description": "對周圍敵人造成雷元素傷害，並為隊伍角色賦予「雷罰惡曜之眼」；角色攻擊命中時可觸發雷元素協同攻擊，並強化元素爆發造成的傷害。",
+      "icon": ""
+    },
+    "elementalBurst": {
+      "name": "奧義·夢想真說",
+      "description": "施展「夢想一刀」造成雷元素範圍傷害，隨後進入「夢想一心」狀態，以雷元素攻擊作戰；命中敵人時可為隊伍成員恢復元素能量。",
+      "icon": ""
+    },
+    "passiveTalents": [
+      {
+        "name": "萬千的願望",
+        "description": "附近的隊友獲得元素微粒或元素晶球時，可為「諸願百眼之輪」累積願力。",
+        "icon": ""
+      },
+      {
+        "name": "殊勝之御體",
+        "description": "雷電將軍超過 100% 的元素充能效率，能提高「夢想一心」期間的能量恢復效果與自身雷元素傷害加成。",
+        "icon": ""
+      },
+      {
+        "name": "天下名物狩",
+        "description": "突破單手劍及長柄武器時，消耗的摩拉減少。",
+        "icon": ""
+      }
+    ]
+  },
+  "reviewStatus": "reviewed",
+  "source": "https://genshin-impact.fandom.com/zh/wiki/雷電將軍_(可控角色)"
+}

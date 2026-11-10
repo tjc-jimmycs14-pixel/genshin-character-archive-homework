@@ -1,0 +1,30 @@
+{
+  "id": "sangonomiya-kokomi",
+  "name": "珊瑚宮心海",
+  "element": "Hydro",
+  "weapon": "Catalyst",
+  "rarity": 5,
+  "region": "稻妻",
+  "description": "",
+  "portrait": "",
+  "talents": {
+    "normalAttack": {
+      "name": "",
+      "description": "",
+      "icon": ""
+    },
+    "elementalSkill": {
+      "name": "",
+      "description": "",
+      "icon": ""
+    },
+    "elementalBurst": {
+      "name": "",
+      "description": "",
+      "icon": ""
+    },
+    "passiveTalents": []
+  },
+  "reviewStatus": "pending",
+  "source": "https://myaline.top/tw/tools/genshin/codex"
+}

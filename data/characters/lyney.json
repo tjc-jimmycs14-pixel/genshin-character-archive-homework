@@ -1,0 +1,30 @@
+{
+  "id": "lyney",
+  "name": "林尼",
+  "element": "Pyro",
+  "weapon": "Bow",
+  "rarity": 5,
+  "region": "楓丹",
+  "description": "",
+  "portrait": "",
+  "talents": {
+    "normalAttack": {
+      "name": "",
+      "description": "",
+      "icon": ""
+    },
+    "elementalSkill": {
+      "name": "",
+      "description": "",
+      "icon": ""
+    },
+    "elementalBurst": {
+      "name": "",
+      "description": "",
+      "icon": ""
+    },
+    "passiveTalents": []
+  },
+  "reviewStatus": "pending",
+  "source": "https://myaline.top/tw/tools/genshin/codex"
+}

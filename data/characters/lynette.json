@@ -1,0 +1,30 @@
+{
+  "id": "lynette",
+  "name": "琳妮特",
+  "element": "Anemo",
+  "weapon": "Sword",
+  "rarity": 4,
+  "region": "楓丹",
+  "description": "",
+  "portrait": "",
+  "talents": {
+    "normalAttack": {
+      "name": "",
+      "description": "",
+      "icon": ""
+    },
+    "elementalSkill": {
+      "name": "",
+      "description": "",
+      "icon": ""
+    },
+    "elementalBurst": {
+      "name": "",
+      "description": "",
+      "icon": ""
+    },
+    "passiveTalents": []
+  },
+  "reviewStatus": "pending",
+  "source": "https://myaline.top/tw/tools/genshin/codex"
+}

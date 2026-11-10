@@ -1,0 +1,46 @@
+{
+  "id": "nahida",
+  "name": "納西妲",
+  "element": "Dendro",
+  "weapon": "Catalyst",
+  "rarity": 5,
+  "region": "須彌",
+  "description": "須彌的草元素法器角色，能以「蘊種印」連結敵人，並透過草元素反應觸發協同傷害。",
+  "portrait": "assets/characters/placeholder-nahida.svg",
+  "talents": {
+    "normalAttack": {
+      "name": "行相",
+      "description": "普通攻擊最多施放四段草元素傷害；重擊短暫詠唱後，對前方區域造成草元素範圍傷害。",
+      "icon": ""
+    },
+    "elementalSkill": {
+      "name": "所聞遍計",
+      "description": "對敵人造成草元素傷害並施加「蘊種印」。長按可進入瞄準狀態，選定多名敵人；被標記的敵人可在觸發元素反應時引發「滅淨三業」，造成草元素傷害。",
+      "icon": ""
+    },
+    "elementalBurst": {
+      "name": "心景幻成",
+      "description": "展開「摩耶之殿」領域。隊伍中存在火、雷或水元素角色時，可分別強化「滅淨三業」的傷害、觸發頻率或領域持續時間。",
+      "icon": ""
+    },
+    "passiveTalents": [
+      {
+        "name": "淨善攝受明論",
+        "description": "展開摩耶之殿後，可依隊伍中最高的元素精通數值，提升領域內目前場上角色的元素精通。",
+        "icon": ""
+      },
+      {
+        "name": "慧明緣覺智論",
+        "description": "納西妲超過一定門檻的元素精通，可提高「滅淨三業」的傷害與暴擊率。",
+        "icon": ""
+      },
+      {
+        "name": "諸相隨念淨行",
+        "description": "可以透過「所聞遍計」的瞄準模式採集特定範圍內的可採集物。",
+        "icon": ""
+      }
+    ]
+  },
+  "reviewStatus": "reviewed",
+  "source": "https://genshin.ch/c/10000073/tw"
+}

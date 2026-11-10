@@ -1,0 +1,46 @@
+{
+  "id": "neuvillette",
+  "name": "那維萊特",
+  "element": "Hydro",
+  "weapon": "Catalyst",
+  "rarity": 5,
+  "region": "楓丹",
+  "description": "楓丹的水元素法器角色，以「重擊·衡平推裁」的持續水元素輸出為主要戰鬥特色。",
+  "portrait": "assets/characters/placeholder-neuvillette.svg",
+  "talents": {
+    "normalAttack": {
+      "name": "如水從平",
+      "description": "普通攻擊最多進行三段水元素攻擊。蓄力重擊可吸收周圍的「源水之滴」，加速蓄力並恢復生命值；蓄力完成後釋放「重擊·衡平推裁」，向前方持續發射水元素洪流。",
+      "icon": ""
+    },
+    "elementalSkill": {
+      "name": "淚水啊！我必償還",
+      "description": "降下水瀑，對前方敵人造成水元素範圍傷害；命中敵人後會產生「源水之滴」，供重擊吸收。",
+      "icon": ""
+    },
+    "elementalBurst": {
+      "name": "潮水啊！我已歸來",
+      "description": "釋放駭浪造成水元素範圍傷害，接著降下水瀑，並在前方產生多枚「源水之滴」。",
+      "icon": ""
+    },
+    "passiveTalents": [
+      {
+        "name": "古海孑遺的權柄",
+        "description": "隊伍觸發數種與水元素相關的反應時，可累積「遺龍之榮」，提高重擊·衡平推裁造成的傷害。",
+        "icon": ""
+      },
+      {
+        "name": "至高仲裁的紀律",
+        "description": "依那維萊特目前生命值高於生命值上限 30% 的部分，獲得水元素傷害加成。",
+        "icon": ""
+      },
+      {
+        "name": "匯聚如浪潮一般",
+        "description": "提高隊伍角色在水下衝刺時的移動速度；不與同類效果疊加。",
+        "icon": ""
+      }
+    ]
+  },
+  "reviewStatus": "reviewed",
+  "source": "https://genshin.hoyoverse.com/zh-tw/news/detail/113142"
+}
