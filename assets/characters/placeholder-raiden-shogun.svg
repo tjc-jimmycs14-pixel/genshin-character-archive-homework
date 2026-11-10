@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 790" role="img" aria-label="原創奇幻人物示意剪影（非官方立繪）">
+<defs>
+ <linearGradient id="cape" x1=".15" y1="0" x2=".9" y2="1"><stop stop-color="#4d3f71"/><stop offset=".7" stop-color="#252544"/><stop offset="1" stop-color="#0f1f30"/></linearGradient>
+ <linearGradient id="tunic" x1=".2" y1="0" x2=".8" y2="1"><stop stop-color="#d6b0f3" stop-opacity=".76"/><stop offset=".27" stop-color="#4d3f71"/><stop offset=".88" stop-color="#252544"/></linearGradient>
+ <linearGradient id="hairBack" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c1a3eb"/><stop offset=".4" stop-color="#4d3f71"/><stop offset="1" stop-color="#252544"/></linearGradient>
+ <linearGradient id="face" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e6dfe8"/><stop offset="1" stop-color="#a7a0a1"/></linearGradient>
+ <linearGradient id="bottom" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#4d3f71"/><stop offset="1" stop-color="#252544"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#d6b0f3" stop-opacity=".28"/><stop offset="1" stop-color="#d6b0f3" stop-opacity="0"/></radialGradient>
+</defs>
+<ellipse cx="265" cy="456" rx="205" ry="280" fill="url(#glow)"/>
+<g opacity=".53" stroke="#d6b0f3" stroke-width="2" fill="none"><path d="M112 475 L70 461 M395 463 L435 443 M156 233 L118 205 M390 281 L423 258"/><circle cx="111" cy="372" r="4"/><circle cx="414" cy="384" r="4"/></g>
+<g stroke-linejoin="round" stroke-linecap="round">
+<!-- Soft cape and mantle -->
+<path d="M192 282 Q124 300 100 365 Q80 475 45 682 L155 655 L186 547 L209 650 Q257 722 298 641 L330 548 L383 677 L483 691 Q425 506 412 379 Q396 317 333 286Z" fill="url(#cape)" stroke="#d6b0f3" stroke-opacity=".28" stroke-width="3"/>
+<path d="M124 366 L88 622 M399 364 L440 621" stroke="#d6b0f3" stroke-opacity=".25" stroke-width="6" fill="none"/>
+<!-- silhouette legs and boots -->
+<path d="M202 537 L209 699 L193 757 L245 761 L266 597 L278 759 L326 755 L312 692 L320 538Z" fill="url(#bottom)" stroke="#d6b0f3" stroke-opacity=".35" stroke-width="3"/>
+<path d="M196 719 L239 720 L239 757 Q207 766 177 761Z M280 721 L324 720 L345 760 Q316 767 279 758Z" fill="#252544" stroke="#d6b0f3" stroke-opacity=".42" stroke-width="3"/>
+<!-- hair behind face --><path d="M224 222 Q169 242 170 350 L131 605 Q191 574 215 506 Q252 539 304 505 Q329 580 385 611 L346 333 Q339 248 304 210Z" fill="url(#hairBack)" stroke="#d6b0f3" stroke-opacity=".55" stroke-width="2"/>
+<!-- neck -->
+<path d="M239 267 L235 314 L292 313 L283 267Z" fill="url(#face)"/>
+<!-- face -->
+<path d="M202 210 Q197 170 250 160 Q319 156 327 217 L312 270 Q282 299 255 300 Q225 285 208 265Z" fill="url(#face)" stroke="#f7f0e6" stroke-opacity=".55" stroke-width="2"/>
+<!-- abstract face marks -->
+<path d="M225 239 L246 238 M273 239 L295 237" stroke="#252544" stroke-opacity=".42" stroke-width="3"/>
+<path d="M258 263 Q267 269 278 262" stroke="#252544" stroke-opacity=".32" stroke-width="2" fill="none"/>
+<!-- sleeves -->
+<path d="M193 307 Q158 294 133 349 L89 510 Q88 532 114 540 L149 529 L198 404Z" fill="url(#tunic)" stroke="#d6b0f3" stroke-opacity=".62" stroke-width="3"/>
+<path d="M328 304 Q365 289 395 353 L433 507 Q433 529 402 542 L372 529 L324 406Z" fill="url(#tunic)" stroke="#d6b0f3" stroke-opacity=".62" stroke-width="3"/>
+<path d="M105 499 L143 510 L135 548 L97 540Z M376 508 L417 501 L426 542 L382 548Z" fill="#252544" stroke="#d8bc91" stroke-opacity=".65" stroke-width="4"/>
+<!-- central costume -->
+<path d="M199 302 Q261 319 324 304 L360 554 L327 651 L270 674 L193 650 L165 553Z" fill="url(#tunic)" stroke="#d6b0f3" stroke-opacity=".65" stroke-width="3"/>
+<path d="M223 318 L262 345 L300 318 L282 488 L263 550 L241 486Z" fill="#252544" stroke="#ead7b0" stroke-opacity=".55" stroke-width="3"/>
+<path d="M184 546 Q262 570 345 545 L327 590 Q266 614 194 589Z" fill="#252544" stroke="#d6b0f3" stroke-opacity=".43" stroke-width="2"/>
+<path d="M261 340 L261 568 M198 606 Q265 627 323 605" stroke="#eadab8" stroke-opacity=".45" stroke-width="3" fill="none"/>
+<!-- collar and belt ornaments -->
+<path d="M201 302 L244 354 L263 335 L282 354 L328 303" fill="none" stroke="#ebd4a1" stroke-width="9" stroke-opacity=".83"/>
+<path d="M195 489 Q260 506 330 487" fill="none" stroke="#d9bb86" stroke-width="14" stroke-opacity=".85"/>
+<path d="M248 481 L264 464 L280 481 L264 501Z" fill="#d6b0f3" stroke="#fcdfae" stroke-width="3"/>
+<path d="M206 564 L232 627 L262 652 L292 627 L318 564" stroke="#d6b0f3" stroke-opacity=".55" stroke-width="3" fill="none"/>
+<!-- hair and headpiece foreground -->
+<path d="M184 215 Q205 150 265 158 Q342 155 348 240 L328 234 L301 217 L284 246 Q253 229 245 207 Q226 234 189 247Z" fill="url(#hairBack)" stroke="#c1a3eb" stroke-opacity=".57" stroke-width="3"/>
+<path d="M220 175 L236 132 L255 169 L271 134 L294 173 L310 142" fill="none" stroke="#e7cfa5" stroke-width="6"/>
+<!-- hands -->
+<path d="M99 535 Q90 558 112 562 Q139 562 139 538Z M383 540 Q382 560 403 563 Q429 563 422 540Z" fill="url(#face)" stroke="#f6e6d6" stroke-opacity=".55" stroke-width="2"/>
+<!-- accessories -->
+<path d="M175 384 L153 411 L174 442 M349 383 L369 412 L351 445" fill="none" stroke="#d6b0f3" stroke-opacity=".65" stroke-width="3"/>
+<circle cx="263" cy="381" r="12" fill="#d6b0f3" stroke="#f3dfac" stroke-width="4"/>
+</g>
+</svg>
